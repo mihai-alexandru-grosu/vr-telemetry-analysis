@@ -1,0 +1,5 @@
+cluster_id,n_sessions,grip_ratio_mean,grip_ratio_std,accuracy_mean,accuracy_std,score_per_throw_mean,score_per_throw_std,throws_per_s_mean,throws_per_s_std,hand_movement_mean,hand_movement_std,score_mean,score_std
+0,46,-1.11,0.21,0.71,0.89,0.59,0.94,0.44,0.76,0.09,0.91,3545.22,1771.56
+1,43,0.39,0.79,-0.98,0.53,-0.87,0.51,-0.23,0.79,0.7,0.89,1108.84,614.13
+2,40,1.01,0.31,0.43,0.61,0.57,0.74,0.6,0.61,-0.24,0.79,3658.88,1095.37
+3,22,-0.29,0.8,-0.34,0.85,-0.55,0.69,-1.55,0.53,-1.12,0.5,632.95,464.8
