@@ -1,0 +1,3880 @@
+{
+    "sessions": [
+        {
+            "playerId": "2f2b5eaf-497e-49bc-b2eb-0a51dfc2e3c9",
+            "timestamp": "2025-05-28T10:41:51.7812250Z",
+            "score": 5495,
+            "dartsFired": 243,
+            "balloonsPopped": 182,
+            "headMovement": 11.421673774719239,
+            "accuracy": 0.748971164226532,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 285
+                },
+                {
+                    "actionName": "grip",
+                    "count": 26
+                }
+            ],
+            "leftControllerMovement": 1.8459222316741944,
+            "rightControllerMovement": 59.644508361816409,
+            "lookAroundYawRange": 359.77960205078127,
+            "lookAroundPitchRange": 42.42294692993164
+        },
+        {
+            "playerId": "aa0dc571-ce1f-4e1c-a46e-1a2798db3faa",
+            "timestamp": "2025-06-01T10:41:42.2262170Z",
+            "score": 0,
+            "dartsFired": 2,
+            "balloonsPopped": 0,
+            "headMovement": 11.664923667907715,
+            "accuracy": 0.0,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 4.704755783081055,
+            "rightControllerMovement": 15.156404495239258,
+            "lookAroundYawRange": 359.4012145996094,
+            "lookAroundPitchRange": 108.19282531738281
+        },
+        {
+            "playerId": "5df5473a-f0f8-4a81-95d7-f94e7a105b0d",
+            "timestamp": "2025-06-01T10:42:31.9122000Z",
+            "score": 10,
+            "dartsFired": 7,
+            "balloonsPopped": 2,
+            "headMovement": 6.165795803070068,
+            "accuracy": 0.2857142984867096,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 8
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 1.1510318517684937,
+            "rightControllerMovement": 12.956077575683594,
+            "lookAroundYawRange": 358.4393005371094,
+            "lookAroundPitchRange": 84.07128143310547
+        },
+        {
+            "playerId": "d7fc102e-cc55-4e74-bc00-da3775ba5cbe",
+            "timestamp": "2025-06-01T10:44:03.2957750Z",
+            "score": 450,
+            "dartsFired": 49,
+            "balloonsPopped": 20,
+            "headMovement": 3.685955762863159,
+            "accuracy": 0.40816327929496767,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 71
+                },
+                {
+                    "actionName": "grip",
+                    "count": 7
+                }
+            ],
+            "leftControllerMovement": 0.01961386948823929,
+            "rightControllerMovement": 14.224772453308106,
+            "lookAroundYawRange": 259.00799560546877,
+            "lookAroundPitchRange": 154.14559936523438
+        },
+        {
+            "playerId": "447c0b19-a600-40c3-987f-6fa8c11a6803",
+            "timestamp": "2025-06-01T10:44:44.9141340Z",
+            "score": 190,
+            "dartsFired": 29,
+            "balloonsPopped": 6,
+            "headMovement": 3.419048547744751,
+            "accuracy": 0.2068965584039688,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 35
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 6
+                }
+            ],
+            "leftControllerMovement": 0.005382848903536797,
+            "rightControllerMovement": 17.28779411315918,
+            "lookAroundYawRange": 358.407958984375,
+            "lookAroundPitchRange": 68.62957763671875
+        },
+        {
+            "playerId": "e4c0caa0-1d23-4947-899b-528a52f0d439",
+            "timestamp": "2025-06-01T10:45:31.8310350Z",
+            "score": 25,
+            "dartsFired": 21,
+            "balloonsPopped": 5,
+            "headMovement": 2.35150146484375,
+            "accuracy": 0.2380952388048172,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 26
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.006312175188213587,
+            "rightControllerMovement": 11.462911605834961,
+            "lookAroundYawRange": 190.62127685546876,
+            "lookAroundPitchRange": 66.93437194824219
+        },
+        {
+            "playerId": "f78e3fdd-31e4-416f-8dba-72615b6650f6",
+            "timestamp": "2025-06-01T10:48:49.7221210Z",
+            "score": 2400,
+            "dartsFired": 142,
+            "balloonsPopped": 82,
+            "headMovement": 15.524383544921875,
+            "accuracy": 0.577464759349823,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 6
+                },
+                {
+                    "actionName": "grip",
+                    "count": 194
+                }
+            ],
+            "leftControllerMovement": 3.0993144512176515,
+            "rightControllerMovement": 48.392852783203128,
+            "lookAroundYawRange": 359.89306640625,
+            "lookAroundPitchRange": 140.70274353027345
+        },
+        {
+            "playerId": "073ec056-6872-40c6-b88a-437b268a0e50",
+            "timestamp": "2025-06-01T10:49:51.8161690Z",
+            "score": 855,
+            "dartsFired": 35,
+            "balloonsPopped": 20,
+            "headMovement": 5.223118305206299,
+            "accuracy": 0.5714285969734192,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 46
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 0.09102416038513184,
+            "rightControllerMovement": 13.797243118286133,
+            "lookAroundYawRange": 250.343505859375,
+            "lookAroundPitchRange": 82.41004943847656
+        },
+        {
+            "playerId": "114e34aa-c45e-48d7-b107-7c131accbd42",
+            "timestamp": "2025-06-01T10:50:18.5628890Z",
+            "score": 235,
+            "dartsFired": 14,
+            "balloonsPopped": 5,
+            "headMovement": 3.4634158611297609,
+            "accuracy": 0.3571428656578064,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 12
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 9
+                }
+            ],
+            "leftControllerMovement": 0.002656028140336275,
+            "rightControllerMovement": 19.54925537109375,
+            "lookAroundYawRange": 156.31961059570313,
+            "lookAroundPitchRange": 84.18318176269531
+        },
+        {
+            "playerId": "1ec5003f-2750-40ff-9d46-dde493186b5c",
+            "timestamp": "2025-06-01T10:53:31.7235350Z",
+            "score": 5300,
+            "dartsFired": 228,
+            "balloonsPopped": 153,
+            "headMovement": 15.743366241455079,
+            "accuracy": 0.6710526347160339,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                },
+                {
+                    "actionName": "grip",
+                    "count": 292
+                }
+            ],
+            "leftControllerMovement": 17.142812728881837,
+            "rightControllerMovement": 73.35343933105469,
+            "lookAroundYawRange": 359.62701416015627,
+            "lookAroundPitchRange": 109.98992156982422
+        },
+        {
+            "playerId": "576f6eac-7bf1-478f-abdf-f24b2e67a9c1",
+            "timestamp": "2025-06-01T10:59:22.0740680Z",
+            "score": 5820,
+            "dartsFired": 220,
+            "balloonsPopped": 117,
+            "headMovement": 12.931212425231934,
+            "accuracy": 0.5318182110786438,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 6
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 408
+                }
+            ],
+            "leftControllerMovement": 1.7335211038589478,
+            "rightControllerMovement": 47.5476188659668,
+            "lookAroundYawRange": 359.9683837890625,
+            "lookAroundPitchRange": 112.23948669433594
+        },
+        {
+            "playerId": "4579adb7-7462-4541-9593-724533daa2c5",
+            "timestamp": "2025-06-01T11:04:37.9384780Z",
+            "score": 3395,
+            "dartsFired": 192,
+            "balloonsPopped": 118,
+            "headMovement": 18.839643478393556,
+            "accuracy": 0.6145833134651184,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 271
+                },
+                {
+                    "actionName": "grip",
+                    "count": 5
+                }
+            ],
+            "leftControllerMovement": 0.043946415185928348,
+            "rightControllerMovement": 67.05854034423828,
+            "lookAroundYawRange": 359.97076416015627,
+            "lookAroundPitchRange": 145.085205078125
+        },
+        {
+            "playerId": "8558403e-6c5e-4c23-ad0f-faa613b2b42f",
+            "timestamp": "2025-06-01T11:10:42.4511020Z",
+            "score": 3020,
+            "dartsFired": 194,
+            "balloonsPopped": 85,
+            "headMovement": 18.90548324584961,
+            "accuracy": 0.438144326210022,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 37
+                },
+                {
+                    "actionName": "grip",
+                    "count": 251
+                }
+            ],
+            "leftControllerMovement": 67.50382232666016,
+            "rightControllerMovement": 52.53254318237305,
+            "lookAroundYawRange": 359.9805908203125,
+            "lookAroundPitchRange": 153.97271728515626
+        },
+        {
+            "playerId": "827c87e4-6066-41f5-8da7-43ae9db6cece",
+            "timestamp": "2025-06-01T11:16:44.3667850Z",
+            "score": 1020,
+            "dartsFired": 227,
+            "balloonsPopped": 44,
+            "headMovement": 35.381370544433597,
+            "accuracy": 0.19383260607719422,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 403
+                },
+                {
+                    "actionName": "grip",
+                    "count": 26
+                }
+            ],
+            "leftControllerMovement": 0.8715602159500122,
+            "rightControllerMovement": 114.70614624023438,
+            "lookAroundYawRange": 359.97119140625,
+            "lookAroundPitchRange": 117.62105560302735
+        },
+        {
+            "playerId": "3c628add-9b4a-407b-8a9c-a9cd6b46ea02",
+            "timestamp": "2025-06-01T11:30:18.1971850Z",
+            "score": 6260,
+            "dartsFired": 214,
+            "balloonsPopped": 149,
+            "headMovement": 9.720085144042969,
+            "accuracy": 0.6962617039680481,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 230
+                },
+                {
+                    "actionName": "grip",
+                    "count": 8
+                }
+            ],
+            "leftControllerMovement": 8.755901336669922,
+            "rightControllerMovement": 38.685001373291019,
+            "lookAroundYawRange": 359.669189453125,
+            "lookAroundPitchRange": 115.39573669433594
+        },
+        {
+            "playerId": "715285bf-a375-4460-897b-cf193c5f8348",
+            "timestamp": "2025-06-01T11:35:42.9198380Z",
+            "score": 3290,
+            "dartsFired": 172,
+            "balloonsPopped": 76,
+            "headMovement": 6.320998191833496,
+            "accuracy": 0.44186046719551089,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 237
+                },
+                {
+                    "actionName": "grip",
+                    "count": 4
+                }
+            ],
+            "leftControllerMovement": 0.3737146854400635,
+            "rightControllerMovement": 31.631698608398439,
+            "lookAroundYawRange": 359.84027099609377,
+            "lookAroundPitchRange": 89.85285949707031
+        },
+        {
+            "playerId": "6cf0c1f0-a090-4dcf-86cf-95e905e62fce",
+            "timestamp": "2025-06-01T11:39:36.3409920Z",
+            "score": 5960,
+            "dartsFired": 205,
+            "balloonsPopped": 107,
+            "headMovement": 8.631816864013672,
+            "accuracy": 0.5219511985778809,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 268
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 0.0431421622633934,
+            "rightControllerMovement": 68.14353942871094,
+            "lookAroundYawRange": 359.7182312011719,
+            "lookAroundPitchRange": 76.15097045898438
+        },
+        {
+            "playerId": "28dc3261-6d1a-4e6e-aca0-2162c706c846",
+            "timestamp": "2025-06-01T11:44:18.3254150Z",
+            "score": 8040,
+            "dartsFired": 206,
+            "balloonsPopped": 130,
+            "headMovement": 11.954171180725098,
+            "accuracy": 0.6310679316520691,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 284
+                },
+                {
+                    "actionName": "grip",
+                    "count": 21
+                }
+            ],
+            "leftControllerMovement": 0.7511509656906128,
+            "rightControllerMovement": 72.38743591308594,
+            "lookAroundYawRange": 359.6468505859375,
+            "lookAroundPitchRange": 62.70832061767578
+        },
+        {
+            "playerId": "7f16691a-38aa-44ab-a180-39c89ba70609",
+            "timestamp": "2025-06-01T11:48:32.4086760Z",
+            "score": 1225,
+            "dartsFired": 100,
+            "balloonsPopped": 31,
+            "headMovement": 8.315166473388672,
+            "accuracy": 0.3100000023841858,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 125
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 13
+                }
+            ],
+            "leftControllerMovement": 0.32794860005378725,
+            "rightControllerMovement": 52.047035217285159,
+            "lookAroundYawRange": 359.83270263671877,
+            "lookAroundPitchRange": 89.33294677734375
+        },
+        {
+            "playerId": "426fea50-3d2a-4d00-b622-de6c24f9b23a",
+            "timestamp": "2025-06-01T11:53:53.0795910Z",
+            "score": 3745,
+            "dartsFired": 174,
+            "balloonsPopped": 95,
+            "headMovement": 11.503490447998047,
+            "accuracy": 0.545976996421814,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 19
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 190
+                }
+            ],
+            "leftControllerMovement": 0.31302908062934878,
+            "rightControllerMovement": 47.409019470214847,
+            "lookAroundYawRange": 359.63812255859377,
+            "lookAroundPitchRange": 94.64835357666016
+        },
+        {
+            "playerId": "848478ee-589f-4e72-85c6-fdb7e46a4f76",
+            "timestamp": "2025-06-01T11:58:03.2074860Z",
+            "score": 1115,
+            "dartsFired": 166,
+            "balloonsPopped": 44,
+            "headMovement": 13.631065368652344,
+            "accuracy": 0.2650602459907532,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 253
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 0.3681330382823944,
+            "rightControllerMovement": 52.91151809692383,
+            "lookAroundYawRange": 359.7225036621094,
+            "lookAroundPitchRange": 99.39663696289063
+        },
+        {
+            "playerId": "babe731c-3e0d-4a02-b45d-58604ae35bec",
+            "timestamp": "2025-06-01T12:03:12.0669220Z",
+            "score": 310,
+            "dartsFired": 163,
+            "balloonsPopped": 31,
+            "headMovement": 8.805327415466309,
+            "accuracy": 0.19018404185771943,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 216
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 12
+                }
+            ],
+            "leftControllerMovement": 17.09874725341797,
+            "rightControllerMovement": 46.14212417602539,
+            "lookAroundYawRange": 359.64459228515627,
+            "lookAroundPitchRange": 121.9267578125
+        },
+        {
+            "playerId": "a89c36f0-160e-41a2-8922-c9966d605a9c",
+            "timestamp": "2025-06-01T12:07:32.9482520Z",
+            "score": 3740,
+            "dartsFired": 220,
+            "balloonsPopped": 148,
+            "headMovement": 13.224471092224121,
+            "accuracy": 0.6727272868156433,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 3
+                },
+                {
+                    "actionName": "grip",
+                    "count": 350
+                }
+            ],
+            "leftControllerMovement": 0.978007972240448,
+            "rightControllerMovement": 85.71717834472656,
+            "lookAroundYawRange": 359.98333740234377,
+            "lookAroundPitchRange": 81.18194580078125
+        },
+        {
+            "playerId": "49f1d84e-1934-4d38-9a15-a0ed2794a83a",
+            "timestamp": "2025-06-01T12:13:48.6680370Z",
+            "score": 1375,
+            "dartsFired": 160,
+            "balloonsPopped": 71,
+            "headMovement": 8.80810546875,
+            "accuracy": 0.4437499940395355,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 211
+                },
+                {
+                    "actionName": "grip",
+                    "count": 4
+                }
+            ],
+            "leftControllerMovement": 0.7204422354698181,
+            "rightControllerMovement": 43.22227478027344,
+            "lookAroundYawRange": 359.92315673828127,
+            "lookAroundPitchRange": 114.43517303466797
+        },
+        {
+            "playerId": "796945b7-94c0-452b-b5b8-683b819a8162",
+            "timestamp": "2025-06-01T12:17:09.8736470Z",
+            "score": 3805,
+            "dartsFired": 189,
+            "balloonsPopped": 93,
+            "headMovement": 6.063860893249512,
+            "accuracy": 0.4920634925365448,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 196
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 6.5525689125061039,
+            "rightControllerMovement": 31.798507690429689,
+            "lookAroundYawRange": 359.9747314453125,
+            "lookAroundPitchRange": 58.14362716674805
+        },
+        {
+            "playerId": "9b7fd46f-399f-4956-ae1f-62cae8e61209",
+            "timestamp": "2025-06-01T12:22:21.6271430Z",
+            "score": 2900,
+            "dartsFired": 200,
+            "balloonsPopped": 101,
+            "headMovement": 6.369664192199707,
+            "accuracy": 0.5049999952316284,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 255
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 24
+                }
+            ],
+            "leftControllerMovement": 0.05863017216324806,
+            "rightControllerMovement": 39.260902404785159,
+            "lookAroundYawRange": 359.7926330566406,
+            "lookAroundPitchRange": 54.128387451171878
+        },
+        {
+            "playerId": "67a959e2-07fa-4941-ac7f-35da8d7321c8",
+            "timestamp": "2025-06-01T12:30:31.1547720Z",
+            "score": 2395,
+            "dartsFired": 180,
+            "balloonsPopped": 78,
+            "headMovement": 18.620615005493165,
+            "accuracy": 0.4333333373069763,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 209
+                },
+                {
+                    "actionName": "grip",
+                    "count": 22
+                }
+            ],
+            "leftControllerMovement": 1.8458229303359986,
+            "rightControllerMovement": 68.6111068725586,
+            "lookAroundYawRange": 359.8450927734375,
+            "lookAroundPitchRange": 153.57424926757813
+        },
+        {
+            "playerId": "1aea2501-4579-490f-8add-acd3546852ea",
+            "timestamp": "2025-06-01T12:35:02.3432800Z",
+            "score": 85,
+            "dartsFired": 18,
+            "balloonsPopped": 4,
+            "headMovement": 28.26302146911621,
+            "accuracy": 0.2222222238779068,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 17
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.04589667171239853,
+            "rightControllerMovement": 90.76798248291016,
+            "lookAroundYawRange": 359.8636169433594,
+            "lookAroundPitchRange": 156.40225219726563
+        },
+        {
+            "playerId": "606b694f-5a07-4990-bea4-c462063c9f61",
+            "timestamp": "2025-06-01T12:40:11.9822300Z",
+            "score": 1200,
+            "dartsFired": 177,
+            "balloonsPopped": 31,
+            "headMovement": 24.378917694091798,
+            "accuracy": 0.17514124512672425,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 132
+                },
+                {
+                    "actionName": "grip",
+                    "count": 152
+                }
+            ],
+            "leftControllerMovement": 2.407381534576416,
+            "rightControllerMovement": 82.61685180664063,
+            "lookAroundYawRange": 359.9707336425781,
+            "lookAroundPitchRange": 167.94952392578126
+        },
+        {
+            "playerId": "ac23b301-4292-4503-8cde-9d5bc0f63747",
+            "timestamp": "2025-06-01T12:46:19.6111140Z",
+            "score": 955,
+            "dartsFired": 177,
+            "balloonsPopped": 54,
+            "headMovement": 32.1083984375,
+            "accuracy": 0.3050847351551056,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 300
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 19
+                }
+            ],
+            "leftControllerMovement": 62.58460235595703,
+            "rightControllerMovement": 88.99750518798828,
+            "lookAroundYawRange": 359.84771728515627,
+            "lookAroundPitchRange": 166.1775665283203
+        },
+        {
+            "playerId": "17602639-5cf6-42aa-91a3-6ad75846fe01",
+            "timestamp": "2025-06-01T13:13:42.8808150Z",
+            "score": 50,
+            "dartsFired": 18,
+            "balloonsPopped": 7,
+            "headMovement": 12.786063194274903,
+            "accuracy": 0.3888888955116272,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 14
+                },
+                {
+                    "actionName": "grip",
+                    "count": 10
+                }
+            ],
+            "leftControllerMovement": 1.8065181970596314,
+            "rightControllerMovement": 22.097471237182618,
+            "lookAroundYawRange": 359.59033203125,
+            "lookAroundPitchRange": 145.080322265625
+        },
+        {
+            "playerId": "9121bb19-915f-4cc6-b2fa-3df00f640176",
+            "timestamp": "2025-06-01T14:41:50.8538710Z",
+            "score": 6965,
+            "dartsFired": 221,
+            "balloonsPopped": 170,
+            "headMovement": 18.658594131469728,
+            "accuracy": 0.7692307829856873,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 238
+                },
+                {
+                    "actionName": "grip",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 1.837082862854004,
+            "rightControllerMovement": 86.35917663574219,
+            "lookAroundYawRange": 359.9857177734375,
+            "lookAroundPitchRange": 98.07832336425781
+        },
+        {
+            "playerId": "51939273-0ba3-498c-bbc2-fddb96a4ebd6",
+            "timestamp": "2025-06-01T14:58:35.5364400Z",
+            "score": 1630,
+            "dartsFired": 73,
+            "balloonsPopped": 37,
+            "headMovement": 7.967428207397461,
+            "accuracy": 0.5068492889404297,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 14
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 65
+                }
+            ],
+            "leftControllerMovement": 0.5179912447929382,
+            "rightControllerMovement": 67.79678344726563,
+            "lookAroundYawRange": 359.8623046875,
+            "lookAroundPitchRange": 104.95630645751953
+        },
+        {
+            "playerId": "74ba9b7b-9608-448e-86f1-bf66674989b6",
+            "timestamp": "2025-06-01T15:18:19.6400770Z",
+            "score": 6020,
+            "dartsFired": 192,
+            "balloonsPopped": 107,
+            "headMovement": 15.879499435424805,
+            "accuracy": 0.5572916865348816,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 310
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 5
+                }
+            ],
+            "leftControllerMovement": 3.454604148864746,
+            "rightControllerMovement": 20.550819396972658,
+            "lookAroundYawRange": 359.8565673828125,
+            "lookAroundPitchRange": 153.3299560546875
+        },
+        {
+            "playerId": "4df0a29a-779d-4972-9fd8-af1aa8055a5a",
+            "timestamp": "2025-06-01T15:22:58.3354780Z",
+            "score": 4310,
+            "dartsFired": 217,
+            "balloonsPopped": 92,
+            "headMovement": 14.728866577148438,
+            "accuracy": 0.42396312952041628,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 327
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 6
+                }
+            ],
+            "leftControllerMovement": 37.44822692871094,
+            "rightControllerMovement": 58.892032623291019,
+            "lookAroundYawRange": 359.92889404296877,
+            "lookAroundPitchRange": 125.67095947265625
+        },
+        {
+            "playerId": "a5790a6a-6d76-43b4-9339-cb78fd1ed31e",
+            "timestamp": "2025-06-05T08:14:25.3216490Z",
+            "score": 830,
+            "dartsFired": 63,
+            "balloonsPopped": 20,
+            "headMovement": 22.46198844909668,
+            "accuracy": 0.3174603283405304,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 15
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 84
+                }
+            ],
+            "leftControllerMovement": 22.59799575805664,
+            "rightControllerMovement": 31.929973602294923,
+            "lookAroundYawRange": 358.68048095703127,
+            "lookAroundPitchRange": 126.77363586425781
+        },
+        {
+            "playerId": "84c6c3c0-d936-45ed-8eb9-09d530f15b4e",
+            "timestamp": "2025-06-05T08:17:43.7496950Z",
+            "score": 5250,
+            "dartsFired": 281,
+            "balloonsPopped": 165,
+            "headMovement": 11.843077659606934,
+            "accuracy": 0.5871886014938355,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 514
+                },
+                {
+                    "actionName": "grip",
+                    "count": 39
+                }
+            ],
+            "leftControllerMovement": 26.057432174682618,
+            "rightControllerMovement": 32.94316482543945,
+            "lookAroundYawRange": 359.81732177734377,
+            "lookAroundPitchRange": 118.5934829711914
+        },
+        {
+            "playerId": "fe997041-d073-4ded-8d08-394db89e82da",
+            "timestamp": "2025-06-05T08:21:29.2779510Z",
+            "score": 4320,
+            "dartsFired": 263,
+            "balloonsPopped": 128,
+            "headMovement": 8.749484062194825,
+            "accuracy": 0.48669201135635378,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 371
+                }
+            ],
+            "leftControllerMovement": 31.5671443939209,
+            "rightControllerMovement": 45.18476104736328,
+            "lookAroundYawRange": 359.8284912109375,
+            "lookAroundPitchRange": 110.5635986328125
+        },
+        {
+            "playerId": "b8c038bd-7ffe-40f7-bcfe-b12ab501ac8b",
+            "timestamp": "2025-06-17T08:56:55.7136690Z",
+            "score": 8685,
+            "dartsFired": 244,
+            "balloonsPopped": 196,
+            "headMovement": 29.405588150024415,
+            "accuracy": 0.8032786846160889,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 259
+                },
+                {
+                    "actionName": "grip",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 59.271663665771487,
+            "rightControllerMovement": 88.12309265136719,
+            "lookAroundYawRange": 359.8125915527344,
+            "lookAroundPitchRange": 149.8388214111328
+        },
+        {
+            "playerId": "616b17b2-6c83-4985-add4-5e4eb5d92276",
+            "timestamp": "2025-07-11T11:19:30.6071150Z",
+            "score": 15,
+            "dartsFired": 20,
+            "balloonsPopped": 3,
+            "headMovement": 14.940185546875,
+            "accuracy": 0.15000000596046449,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 6
+                },
+                {
+                    "actionName": "grip",
+                    "count": 20
+                }
+            ],
+            "leftControllerMovement": 43.48778533935547,
+            "rightControllerMovement": 19.047956466674806,
+            "lookAroundYawRange": 357.849853515625,
+            "lookAroundPitchRange": 109.03543853759766
+        },
+        {
+            "playerId": "c3088409-6caf-4a4d-8a3f-82ac1f21b2c7",
+            "timestamp": "2025-07-11T11:25:43.1580540Z",
+            "score": 415,
+            "dartsFired": 103,
+            "balloonsPopped": 29,
+            "headMovement": 42.537906646728519,
+            "accuracy": 0.28155338764190676,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 127
+                },
+                {
+                    "actionName": "grip",
+                    "count": 31
+                }
+            ],
+            "leftControllerMovement": 20.396812438964845,
+            "rightControllerMovement": 133.69857788085938,
+            "lookAroundYawRange": 359.9873962402344,
+            "lookAroundPitchRange": 98.61515045166016
+        },
+        {
+            "playerId": "1797d7f4-39be-4f52-99ee-adc3fafc6464",
+            "timestamp": "2025-07-11T11:29:45.4334630Z",
+            "score": 1365,
+            "dartsFired": 153,
+            "balloonsPopped": 65,
+            "headMovement": 20.545106887817384,
+            "accuracy": 0.4248366057872772,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 248
+                }
+            ],
+            "leftControllerMovement": 0.09707186371088028,
+            "rightControllerMovement": 75.20496368408203,
+            "lookAroundYawRange": 359.72271728515627,
+            "lookAroundPitchRange": 100.08256530761719
+        },
+        {
+            "playerId": "eebefaec-87a9-4966-818e-dc974364f962",
+            "timestamp": "2025-07-11T11:34:06.7286050Z",
+            "score": 3580,
+            "dartsFired": 219,
+            "balloonsPopped": 86,
+            "headMovement": 7.034097671508789,
+            "accuracy": 0.39269405603408816,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 182
+                },
+                {
+                    "actionName": "grip",
+                    "count": 154
+                }
+            ],
+            "leftControllerMovement": 7.429689407348633,
+            "rightControllerMovement": 28.685327529907228,
+            "lookAroundYawRange": 359.6343994140625,
+            "lookAroundPitchRange": 69.03410339355469
+        },
+        {
+            "playerId": "311c68e0-f353-40ba-85c0-c87fc7804483",
+            "timestamp": "2025-07-11T11:38:24.9243450Z",
+            "score": 3250,
+            "dartsFired": 127,
+            "balloonsPopped": 86,
+            "headMovement": 13.570425033569336,
+            "accuracy": 0.6771653294563294,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 121
+                },
+                {
+                    "actionName": "grip",
+                    "count": 15
+                }
+            ],
+            "leftControllerMovement": 0.1077231615781784,
+            "rightControllerMovement": 53.266021728515628,
+            "lookAroundYawRange": 359.9300537109375,
+            "lookAroundPitchRange": 52.59479522705078
+        },
+        {
+            "playerId": "51977b42-6ab5-40f5-9322-c8d5b0130589",
+            "timestamp": "2025-07-11T11:42:38.7508630Z",
+            "score": 3085,
+            "dartsFired": 243,
+            "balloonsPopped": 83,
+            "headMovement": 15.394193649291993,
+            "accuracy": 0.34156379103660586,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 368
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 16
+                }
+            ],
+            "leftControllerMovement": 1.0773792266845704,
+            "rightControllerMovement": 65.14978790283203,
+            "lookAroundYawRange": 359.8150634765625,
+            "lookAroundPitchRange": 131.35086059570313
+        },
+        {
+            "playerId": "27ff7580-0739-4241-b0d5-3f8e1dc5ec7c",
+            "timestamp": "2025-07-11T11:47:14.7801340Z",
+            "score": 1980,
+            "dartsFired": 200,
+            "balloonsPopped": 103,
+            "headMovement": 14.849522590637207,
+            "accuracy": 0.5149999856948853,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 143
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 111
+                }
+            ],
+            "leftControllerMovement": 1.8392170667648316,
+            "rightControllerMovement": 72.86285400390625,
+            "lookAroundYawRange": 359.88873291015627,
+            "lookAroundPitchRange": 79.32217407226563
+        },
+        {
+            "playerId": "cad92bec-1441-4f7f-979c-af92ffc5d2a2",
+            "timestamp": "2025-07-11T11:50:47.9501220Z",
+            "score": 4215,
+            "dartsFired": 163,
+            "balloonsPopped": 89,
+            "headMovement": 14.152724266052246,
+            "accuracy": 0.546012282371521,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 188
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.03848593309521675,
+            "rightControllerMovement": 82.66610717773438,
+            "lookAroundYawRange": 359.94476318359377,
+            "lookAroundPitchRange": 141.9989013671875
+        },
+        {
+            "playerId": "39695b37-e2a7-4ed0-92d9-ee53d59e7865",
+            "timestamp": "2025-07-11T11:54:34.7654450Z",
+            "score": 1185,
+            "dartsFired": 155,
+            "balloonsPopped": 55,
+            "headMovement": 17.715776443481447,
+            "accuracy": 0.35483869910240176,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 145
+                },
+                {
+                    "actionName": "grip",
+                    "count": 40
+                }
+            ],
+            "leftControllerMovement": 0.03528006374835968,
+            "rightControllerMovement": 64.560302734375,
+            "lookAroundYawRange": 359.9924011230469,
+            "lookAroundPitchRange": 105.03353881835938
+        },
+        {
+            "playerId": "b9f6b666-b7b3-409c-9fdb-bb72d42b4334",
+            "timestamp": "2025-07-11T11:59:08.4888320Z",
+            "score": 1255,
+            "dartsFired": 168,
+            "balloonsPopped": 81,
+            "headMovement": 12.737556457519532,
+            "accuracy": 0.4821428656578064,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 218
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 63
+                }
+            ],
+            "leftControllerMovement": 2.4614291191101076,
+            "rightControllerMovement": 92.26624298095703,
+            "lookAroundYawRange": 359.901123046875,
+            "lookAroundPitchRange": 65.81065368652344
+        },
+        {
+            "playerId": "7df4b19a-9fae-4c93-be25-ae2a0b953370",
+            "timestamp": "2025-07-11T12:03:34.9601020Z",
+            "score": 70,
+            "dartsFired": 65,
+            "balloonsPopped": 12,
+            "headMovement": 2.5918030738830568,
+            "accuracy": 0.1846153885126114,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 70
+                }
+            ],
+            "leftControllerMovement": 0.03365160897374153,
+            "rightControllerMovement": 21.979930877685548,
+            "lookAroundYawRange": 359.7800598144531,
+            "lookAroundPitchRange": 30.41564178466797
+        },
+        {
+            "playerId": "05515776-be7e-4036-9c2c-f037d6f87ba8",
+            "timestamp": "2025-07-11T12:09:43.4949480Z",
+            "score": 2170,
+            "dartsFired": 224,
+            "balloonsPopped": 87,
+            "headMovement": 14.567147254943848,
+            "accuracy": 0.3883928656578064,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 391
+                },
+                {
+                    "actionName": "grip",
+                    "count": 29
+                }
+            ],
+            "leftControllerMovement": 0.03442450240254402,
+            "rightControllerMovement": 70.96783447265625,
+            "lookAroundYawRange": 359.7320861816406,
+            "lookAroundPitchRange": 147.0570831298828
+        },
+        {
+            "playerId": "efd0af68-89b1-4680-8ca1-b6d68d5b08ed",
+            "timestamp": "2025-07-11T12:12:48.0181520Z",
+            "score": 100,
+            "dartsFired": 28,
+            "balloonsPopped": 7,
+            "headMovement": 9.597116470336914,
+            "accuracy": 0.25,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 16
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 28
+                }
+            ],
+            "leftControllerMovement": 0.007075081113725901,
+            "rightControllerMovement": 19.663114547729493,
+            "lookAroundYawRange": 359.851806640625,
+            "lookAroundPitchRange": 94.1252670288086
+        },
+        {
+            "playerId": "1b99399a-7e9b-4fff-963b-2e0157c4d69f",
+            "timestamp": "2025-07-11T12:16:01.1749830Z",
+            "score": 2575,
+            "dartsFired": 207,
+            "balloonsPopped": 96,
+            "headMovement": 19.63519287109375,
+            "accuracy": 0.4637681245803833,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 41
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 302
+                }
+            ],
+            "leftControllerMovement": 0.03687116131186485,
+            "rightControllerMovement": 90.43400573730469,
+            "lookAroundYawRange": 359.8725891113281,
+            "lookAroundPitchRange": 151.8139190673828
+        },
+        {
+            "playerId": "c6c25377-31c6-454e-a239-067a7b4683d3",
+            "timestamp": "2025-07-12T15:15:50.5894810Z",
+            "score": 1015,
+            "dartsFired": 71,
+            "balloonsPopped": 30,
+            "headMovement": 28.22222137451172,
+            "accuracy": 0.4225352108478546,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 78
+                },
+                {
+                    "actionName": "grip",
+                    "count": 16
+                }
+            ],
+            "leftControllerMovement": 42.87245559692383,
+            "rightControllerMovement": 41.77310562133789,
+            "lookAroundYawRange": 359.9256591796875,
+            "lookAroundPitchRange": 124.9413833618164
+        },
+        {
+            "playerId": "d758a468-c31a-4993-a285-30e6864e53c4",
+            "timestamp": "2025-07-12T15:21:14.4067820Z",
+            "score": 4610,
+            "dartsFired": 243,
+            "balloonsPopped": 133,
+            "headMovement": 8.475499153137207,
+            "accuracy": 0.547325074672699,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 491
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 5
+                }
+            ],
+            "leftControllerMovement": 36.02873992919922,
+            "rightControllerMovement": 14.908943176269532,
+            "lookAroundYawRange": 359.98614501953127,
+            "lookAroundPitchRange": 112.1378402709961
+        },
+         {
+            "playerId": "8ccd1fc0-c569-4100-9152-0c053762094c",
+            "timestamp": "2025-06-01T08:54:57.6766320Z",
+            "score": 20,
+            "dartsFired": 8,
+            "balloonsPopped": 3,
+            "headMovement": 44.667442321777347,
+            "accuracy": 0.375,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 2
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 12
+                }
+            ],
+            "leftControllerMovement": 1.8127602338790894,
+            "rightControllerMovement": 55.39503860473633,
+            "lookAroundYawRange": 358.933349609375,
+            "lookAroundPitchRange": 86.55216979980469
+        },
+        {
+            "playerId": "b59558ea-a519-4b59-a1a4-a2569d9b2583",
+            "timestamp": "2025-06-01T09:01:40.4122010Z",
+            "score": 2355,
+            "dartsFired": 166,
+            "balloonsPopped": 47,
+            "headMovement": 32.488346099853519,
+            "accuracy": 0.28313252329826357,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 3
+                },
+                {
+                    "actionName": "grip",
+                    "count": 271
+                }
+            ],
+            "leftControllerMovement": 1.8430132865905762,
+            "rightControllerMovement": 100.65958404541016,
+            "lookAroundYawRange": 359.8519287109375,
+            "lookAroundPitchRange": 158.04537963867188
+        },
+        {
+            "playerId": "c01ff5ed-a2ae-40ca-b0e9-dbf6f3de76d2",
+            "timestamp": "2025-06-01T09:11:15.5018950Z",
+            "score": 1915,
+            "dartsFired": 183,
+            "balloonsPopped": 62,
+            "headMovement": 30.02335548400879,
+            "accuracy": 0.33879780769348147,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 281
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 7
+                }
+            ],
+            "leftControllerMovement": 0.043895941227674487,
+            "rightControllerMovement": 88.97727966308594,
+            "lookAroundYawRange": 359.1621398925781,
+            "lookAroundPitchRange": 112.89143371582031
+        },
+        {
+            "playerId": "a388108d-afc1-4022-a0df-f3bf16075f07",
+            "timestamp": "2025-06-01T09:12:25.5676070Z",
+            "score": 0,
+            "dartsFired": 1,
+            "balloonsPopped": 0,
+            "headMovement": 8.109139442443848,
+            "accuracy": 0.0,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.005319853778928518,
+            "rightControllerMovement": 22.411502838134767,
+            "lookAroundYawRange": 359.163330078125,
+            "lookAroundPitchRange": 115.67989349365235
+        },
+        {
+            "playerId": "6009822b-63c5-47ec-972e-14d66b8c7b26",
+            "timestamp": "2025-06-01T09:15:38.7617040Z",
+            "score": 2760,
+            "dartsFired": 124,
+            "balloonsPopped": 57,
+            "headMovement": 18.194183349609376,
+            "accuracy": 0.45967742800712588,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 130
+                }
+            ],
+            "leftControllerMovement": 0.04558949172496796,
+            "rightControllerMovement": 97.12996673583985,
+            "lookAroundYawRange": 359.97454833984377,
+            "lookAroundPitchRange": 154.5917510986328
+        },
+        {
+            "playerId": "1d90270c-b4d6-4cbf-bd64-a5173715c728",
+            "timestamp": "2025-06-01T09:20:38.7485930Z",
+            "score": 935,
+            "dartsFired": 134,
+            "balloonsPopped": 26,
+            "headMovement": 26.79389762878418,
+            "accuracy": 0.19402985274791718,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 151
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 1.8464372158050538,
+            "rightControllerMovement": 90.61892700195313,
+            "lookAroundYawRange": 359.94091796875,
+            "lookAroundPitchRange": 134.9553985595703
+        },
+        {
+            "playerId": "8df2d6c4-8976-4d6e-a2e3-93dcf86e8929",
+            "timestamp": "2025-06-01T09:27:08.3374990Z",
+            "score": 1620,
+            "dartsFired": 168,
+            "balloonsPopped": 63,
+            "headMovement": 16.420181274414064,
+            "accuracy": 0.375,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 181
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 1.8388192653656006,
+            "rightControllerMovement": 29.947832107543947,
+            "lookAroundYawRange": 359.8829345703125,
+            "lookAroundPitchRange": 143.3553466796875
+        },
+        {
+            "playerId": "e457125d-4f24-45d3-9eb9-8a9b92cf44ff",
+            "timestamp": "2025-06-01T09:31:23.7801720Z",
+            "score": 3590,
+            "dartsFired": 200,
+            "balloonsPopped": 136,
+            "headMovement": 6.5959272384643559,
+            "accuracy": 0.6800000071525574,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 252
+                }
+            ],
+            "leftControllerMovement": 0.04488418623805046,
+            "rightControllerMovement": 42.821372985839847,
+            "lookAroundYawRange": 359.59735107421877,
+            "lookAroundPitchRange": 38.86585235595703
+        },
+        {
+            "playerId": "0d64c9dd-842c-4055-b58b-749d209cd721",
+            "timestamp": "2025-06-01T09:35:32.8322040Z",
+            "score": 970,
+            "dartsFired": 90,
+            "balloonsPopped": 30,
+            "headMovement": 42.45966339111328,
+            "accuracy": 0.3333333432674408,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 45
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 101
+                }
+            ],
+            "leftControllerMovement": 1.840549349784851,
+            "rightControllerMovement": 124.60992431640625,
+            "lookAroundYawRange": 359.96246337890627,
+            "lookAroundPitchRange": 163.40188598632813
+        },
+        {
+            "playerId": "4c144f2a-086e-4835-a630-18263e3c9d84",
+            "timestamp": "2025-06-01T09:39:30.0620500Z",
+            "score": 2875,
+            "dartsFired": 174,
+            "balloonsPopped": 88,
+            "headMovement": 34.242401123046878,
+            "accuracy": 0.5057471394538879,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 244
+                },
+                {
+                    "actionName": "grip",
+                    "count": 43
+                }
+            ],
+            "leftControllerMovement": 0.043378494679927829,
+            "rightControllerMovement": 137.81842041015626,
+            "lookAroundYawRange": 359.885498046875,
+            "lookAroundPitchRange": 125.0812759399414
+        },
+        {
+            "playerId": "6fe64796-13bc-4638-9be6-e3e7524bfa9b",
+            "timestamp": "2025-06-01T10:10:55.6281900Z",
+            "score": 4880,
+            "dartsFired": 228,
+            "balloonsPopped": 106,
+            "headMovement": 14.869093894958496,
+            "accuracy": 0.4649122953414917,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 406
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 1.846021294593811,
+            "rightControllerMovement": 66.29802703857422,
+            "lookAroundYawRange": 359.6551818847656,
+            "lookAroundPitchRange": 118.71395111083985
+        },
+        {
+            "playerId": "5ad67b23-327e-4c8e-8c60-d248cee6fe69",
+            "timestamp": "2025-06-01T10:25:09.4653830Z",
+            "score": 2595,
+            "dartsFired": 202,
+            "balloonsPopped": 97,
+            "headMovement": 9.756134033203125,
+            "accuracy": 0.4801980257034302,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 8
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 294
+                }
+            ],
+            "leftControllerMovement": 0.03538576513528824,
+            "rightControllerMovement": 38.09654998779297,
+            "lookAroundYawRange": 359.70965576171877,
+            "lookAroundPitchRange": 117.92772674560547
+        },
+        {
+            "playerId": "e1bd7530-e932-418f-89b7-09a0b3b60e13",
+            "timestamp": "2025-06-01T10:28:53.8674290Z",
+            "score": 3635,
+            "dartsFired": 214,
+            "balloonsPopped": 102,
+            "headMovement": 13.964463233947754,
+            "accuracy": 0.47663551568984988,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 394
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 6
+                }
+            ],
+            "leftControllerMovement": 0.04448419064283371,
+            "rightControllerMovement": 80.45449829101563,
+            "lookAroundYawRange": 359.770263671875,
+            "lookAroundPitchRange": 113.57720947265625
+        },
+        {
+            "playerId": "13cde9e9-647e-4dc1-9dcb-5d5d8b22c205",
+            "timestamp": "2025-06-01T10:33:45.2140690Z",
+            "score": 5660,
+            "dartsFired": 202,
+            "balloonsPopped": 148,
+            "headMovement": 21.774351119995118,
+            "accuracy": 0.7326732873916626,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 267
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 1.8386125564575196,
+            "rightControllerMovement": 67.51531219482422,
+            "lookAroundYawRange": 359.8486328125,
+            "lookAroundPitchRange": 80.30384826660156
+        },
+        {
+            "playerId": "21f1b4aa-f03e-4aa2-bc1f-e80f5d6a3b59",
+            "timestamp": "2025-06-01T10:38:29.5418920Z",
+            "score": 1935,
+            "dartsFired": 215,
+            "balloonsPopped": 84,
+            "headMovement": 11.122586250305176,
+            "accuracy": 0.3906976878643036,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 17
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 302
+                }
+            ],
+            "leftControllerMovement": 0.0435902401804924,
+            "rightControllerMovement": 65.43395233154297,
+            "lookAroundYawRange": 359.93804931640627,
+            "lookAroundPitchRange": 77.980712890625
+        },
+        {
+            "playerId": "0c5bb779-b28c-477f-9e81-b7fb44de2df3",
+            "timestamp": "2025-06-01T10:42:27.2216190Z",
+            "score": 3305,
+            "dartsFired": 213,
+            "balloonsPopped": 96,
+            "headMovement": 6.9710493087768559,
+            "accuracy": 0.4507042169570923,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 284
+                }
+            ],
+            "leftControllerMovement": 0.04102116450667381,
+            "rightControllerMovement": 38.219276428222659,
+            "lookAroundYawRange": 359.91717529296877,
+            "lookAroundPitchRange": 69.73759460449219
+        },
+        {
+            "playerId": "c5d5596d-b640-487d-8754-2096dba9ba6c",
+            "timestamp": "2025-06-01T10:47:38.6923650Z",
+            "score": 635,
+            "dartsFired": 54,
+            "balloonsPopped": 37,
+            "headMovement": 10.958321571350098,
+            "accuracy": 0.6851851940155029,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 70
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 0.03002884052693844,
+            "rightControllerMovement": 29.361791610717775,
+            "lookAroundYawRange": 358.8865661621094,
+            "lookAroundPitchRange": 161.34454345703126
+        },
+        {
+            "playerId": "a1679556-bdc8-4e53-85f6-3c0d99800518",
+            "timestamp": "2025-06-01T10:50:51.8753120Z",
+            "score": 2775,
+            "dartsFired": 199,
+            "balloonsPopped": 96,
+            "headMovement": 16.73093032836914,
+            "accuracy": 0.48241207003593447,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 215
+                },
+                {
+                    "actionName": "grip",
+                    "count": 15
+                }
+            ],
+            "leftControllerMovement": 0.04646795243024826,
+            "rightControllerMovement": 112.38645935058594,
+            "lookAroundYawRange": 359.8685302734375,
+            "lookAroundPitchRange": 84.08808898925781
+        },
+        {
+            "playerId": "3ca25b96-7ea8-406b-a629-48840ce871ec",
+            "timestamp": "2025-06-01T10:54:12.9246670Z",
+            "score": 10,
+            "dartsFired": 8,
+            "balloonsPopped": 2,
+            "headMovement": 11.861148834228516,
+            "accuracy": 0.25,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 7
+                },
+                {
+                    "actionName": "grip",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 0.026263754814863206,
+            "rightControllerMovement": 21.793222427368165,
+            "lookAroundYawRange": 359.91595458984377,
+            "lookAroundPitchRange": 142.33343505859376
+        },
+        {
+            "playerId": "2e237d99-8414-4314-b0fc-35951e1769c3",
+            "timestamp": "2025-06-01T10:56:40.1337520Z",
+            "score": 2300,
+            "dartsFired": 81,
+            "balloonsPopped": 55,
+            "headMovement": 11.012125968933106,
+            "accuracy": 0.6790123581886292,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 95
+                },
+                {
+                    "actionName": "grip",
+                    "count": 9
+                }
+            ],
+            "leftControllerMovement": 0.03241470828652382,
+            "rightControllerMovement": 53.52668380737305,
+            "lookAroundYawRange": 359.96221923828127,
+            "lookAroundPitchRange": 106.94032287597656
+        },
+        {
+            "playerId": "abaed899-4a52-4906-bdd8-3bc4e2c7d71f",
+            "timestamp": "2025-06-01T10:59:53.2924520Z",
+            "score": 3400,
+            "dartsFired": 142,
+            "balloonsPopped": 72,
+            "headMovement": 10.100461959838868,
+            "accuracy": 0.5070422291755676,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 195
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 8
+                }
+            ],
+            "leftControllerMovement": 0.04050511494278908,
+            "rightControllerMovement": 42.810462951660159,
+            "lookAroundYawRange": 359.8993225097656,
+            "lookAroundPitchRange": 95.00960540771485
+        },
+        {
+            "playerId": "238bfcdd-bb9e-4a2b-b272-b4009ff23419",
+            "timestamp": "2025-06-01T11:07:58.9315340Z",
+            "score": 5,
+            "dartsFired": 6,
+            "balloonsPopped": 1,
+            "headMovement": 8.861574172973633,
+            "accuracy": 0.1666666716337204,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 5
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.012570329010486603,
+            "rightControllerMovement": 12.197569847106934,
+            "lookAroundYawRange": 359.84368896484377,
+            "lookAroundPitchRange": 114.09235382080078
+        },
+        {
+            "playerId": "74f726e0-1f3a-4df7-9b3d-3b585c510f74",
+            "timestamp": "2025-06-01T11:11:12.1207660Z",
+            "score": 515,
+            "dartsFired": 57,
+            "balloonsPopped": 23,
+            "headMovement": 12.451489448547364,
+            "accuracy": 0.4035087823867798,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 58
+                },
+                {
+                    "actionName": "grip",
+                    "count": 8
+                }
+            ],
+            "leftControllerMovement": 0.0382455550134182,
+            "rightControllerMovement": 57.240234375,
+            "lookAroundYawRange": 359.8755187988281,
+            "lookAroundPitchRange": 90.75511169433594
+        },
+        {
+            "playerId": "48ed22c4-c861-42b9-8fc3-0cb1325f9d43",
+            "timestamp": "2025-06-01T11:15:45.6360290Z",
+            "score": 850,
+            "dartsFired": 100,
+            "balloonsPopped": 44,
+            "headMovement": 21.540563583374025,
+            "accuracy": 0.4399999976158142,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 55
+                },
+                {
+                    "actionName": "grip",
+                    "count": 78
+                }
+            ],
+            "leftControllerMovement": 0.04008788242936134,
+            "rightControllerMovement": 84.61016845703125,
+            "lookAroundYawRange": 359.81390380859377,
+            "lookAroundPitchRange": 97.17536163330078
+        },
+        {
+            "playerId": "6c6c0b13-72de-48c0-8c5a-64ac17b8e106",
+            "timestamp": "2025-06-01T11:22:34.6006990Z",
+            "score": 1940,
+            "dartsFired": 125,
+            "balloonsPopped": 34,
+            "headMovement": 16.281543731689454,
+            "accuracy": 0.2720000147819519,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 88
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 90
+                }
+            ],
+            "leftControllerMovement": 0.04383803531527519,
+            "rightControllerMovement": 73.36630249023438,
+            "lookAroundYawRange": 359.96044921875,
+            "lookAroundPitchRange": 152.44964599609376
+        },
+        {
+            "playerId": "36c61eae-da05-4b1a-ae43-b2a9409f616a",
+            "timestamp": "2025-06-01T11:35:26.8793720Z",
+            "score": 3495,
+            "dartsFired": 222,
+            "balloonsPopped": 91,
+            "headMovement": 16.034923553466798,
+            "accuracy": 0.4099099040031433,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 6
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 392
+                }
+            ],
+            "leftControllerMovement": 0.04409249126911163,
+            "rightControllerMovement": 85.95561218261719,
+            "lookAroundYawRange": 359.8395080566406,
+            "lookAroundPitchRange": 106.13037109375
+        },
+        {
+            "playerId": "a96221b5-902f-48f0-b34e-2f6a924e20da",
+            "timestamp": "2025-06-01T11:45:23.8050890Z",
+            "score": 1150,
+            "dartsFired": 49,
+            "balloonsPopped": 21,
+            "headMovement": 12.380603790283204,
+            "accuracy": 0.4285714328289032,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 56
+                },
+                {
+                    "actionName": "grip",
+                    "count": 5
+                }
+            ],
+            "leftControllerMovement": 0.041405316442251208,
+            "rightControllerMovement": 426.0519104003906,
+            "lookAroundYawRange": 359.6051025390625,
+            "lookAroundPitchRange": 142.2574462890625
+        },
+        {
+            "playerId": "eb96dd1a-1b0e-484e-af2b-b1180883dd25",
+            "timestamp": "2025-06-01T11:48:51.7513210Z",
+            "score": 5385,
+            "dartsFired": 233,
+            "balloonsPopped": 175,
+            "headMovement": 10.036420822143555,
+            "accuracy": 0.7510729432106018,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 293
+                }
+            ],
+            "leftControllerMovement": 0.04466215521097183,
+            "rightControllerMovement": 59.581031799316409,
+            "lookAroundYawRange": 359.7425537109375,
+            "lookAroundPitchRange": 93.91266632080078
+        },
+        {
+            "playerId": "6f5f019c-c264-4842-b14c-c46c243fbc81",
+            "timestamp": "2025-06-01T11:50:07.1948830Z",
+            "score": 0,
+            "dartsFired": 1,
+            "balloonsPopped": 0,
+            "headMovement": 6.418091297149658,
+            "accuracy": 0.0,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.00443781865760684,
+            "rightControllerMovement": 9.349604606628418,
+            "lookAroundYawRange": 355.2408447265625,
+            "lookAroundPitchRange": 95.97177124023438
+        },
+        {
+            "playerId": "db37bb3d-4555-4582-83b1-650fbd816512",
+            "timestamp": "2025-06-01T12:23:00.0955420Z",
+            "score": 0,
+            "dartsFired": 2,
+            "balloonsPopped": 0,
+            "headMovement": 11.050450325012207,
+            "accuracy": 0.0,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 1.8025000095367432,
+            "rightControllerMovement": 14.170817375183106,
+            "lookAroundYawRange": 231.9725341796875,
+            "lookAroundPitchRange": 104.96330261230469
+        },
+        {
+            "playerId": "7dd6d5f3-a25d-404b-99f5-e27d2bc8f592",
+            "timestamp": "2025-06-01T12:23:18.9199090Z",
+            "score": 5,
+            "dartsFired": 2,
+            "balloonsPopped": 1,
+            "headMovement": 0.7892163395881653,
+            "accuracy": 0.5,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.0006895002443343401,
+            "rightControllerMovement": 2.017418622970581,
+            "lookAroundYawRange": 34.704307556152347,
+            "lookAroundPitchRange": 64.419677734375
+        },
+        {
+            "playerId": "6b30c0df-ff23-4932-9a15-d651c6d95ee3",
+            "timestamp": "2025-06-01T12:26:32.0767760Z",
+            "score": 1965,
+            "dartsFired": 161,
+            "balloonsPopped": 57,
+            "headMovement": 11.524945259094239,
+            "accuracy": 0.35403725504875185,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 185
+                },
+                {
+                    "actionName": "grip",
+                    "count": 29
+                }
+            ],
+            "leftControllerMovement": 0.04331491142511368,
+            "rightControllerMovement": 57.456687927246097,
+            "lookAroundYawRange": 359.982421875,
+            "lookAroundPitchRange": 70.43409729003906
+        },
+        {
+            "playerId": "fc565d76-79f8-4bba-b55a-ee0698d2b904",
+            "timestamp": "2025-03-12T22:43:10.6751580Z",
+            "score": 15,
+            "dartsFired": 16,
+            "balloonsPopped": 2,
+            "headMovement": 41.09258270263672,
+            "accuracy": 0.125,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 15
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 4
+                }
+            ],
+            "leftControllerMovement": 1.804998517036438,
+            "rightControllerMovement": 47.91138458251953,
+            "lookAroundYawRange": 359.3725891113281,
+            "lookAroundPitchRange": 111.61381530761719
+        },
+        {
+            "playerId": "5345a6c9-97db-4d43-a6e0-754500300a1c",
+            "timestamp": "2025-07-11T12:05:38.4046360Z",
+            "score": 655,
+            "dartsFired": 87,
+            "balloonsPopped": 31,
+            "headMovement": 54.019554138183597,
+            "accuracy": 0.3563218414783478,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 9
+                },
+                {
+                    "actionName": "grip",
+                    "count": 100
+                }
+            ],
+            "leftControllerMovement": 1.8445411920547486,
+            "rightControllerMovement": 141.2344207763672,
+            "lookAroundYawRange": 359.96185302734377,
+            "lookAroundPitchRange": 158.69964599609376
+        },
+        {
+            "playerId": "59dd58af-8da0-49d3-99b0-266a6e9f6d42",
+            "timestamp": "2025-07-11T12:10:14.3479850Z",
+            "score": 5115,
+            "dartsFired": 208,
+            "balloonsPopped": 105,
+            "headMovement": 17.39000129699707,
+            "accuracy": 0.504807710647583,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 198
+                },
+                {
+                    "actionName": "grip",
+                    "count": 36
+                }
+            ],
+            "leftControllerMovement": 0.0466349832713604,
+            "rightControllerMovement": 86.37714385986328,
+            "lookAroundYawRange": 359.9244384765625,
+            "lookAroundPitchRange": 88.2127685546875
+        },
+        {
+            "playerId": "e1588218-a16d-44a5-a8cc-9d06b1ed1e80",
+            "timestamp": "2025-07-11T12:13:55.0792930Z",
+            "score": 4885,
+            "dartsFired": 221,
+            "balloonsPopped": 144,
+            "headMovement": 11.035576820373536,
+            "accuracy": 0.651583731174469,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 330
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.042625024914741519,
+            "rightControllerMovement": 48.2840690612793,
+            "lookAroundYawRange": 359.2657470703125,
+            "lookAroundPitchRange": 53.83806610107422
+        },
+        {
+            "playerId": "6987d7b2-bba8-4e41-990d-552a25d5263e",
+            "timestamp": "2025-05-28T09:53:59.1853260Z",
+            "score": 2140,
+            "dartsFired": 95,
+            "balloonsPopped": 76,
+            "headMovement": 14.017467498779297,
+            "accuracy": 0.800000011920929,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 116
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 1.8182984590530396,
+            "rightControllerMovement": 30.171558380126954,
+            "lookAroundYawRange": 294.3201904296875,
+            "lookAroundPitchRange": 86.17119598388672
+        },
+        {
+            "playerId": "c073e148-b05a-416c-8b4e-b3e05c2436cc",
+            "timestamp": "2025-06-01T07:16:55.1796320Z",
+            "score": 3960,
+            "dartsFired": 209,
+            "balloonsPopped": 137,
+            "headMovement": 20.025400161743165,
+            "accuracy": 0.6555023789405823,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 216
+                },
+                {
+                    "actionName": "grip",
+                    "count": 36
+                }
+            ],
+            "leftControllerMovement": 14.97793197631836,
+            "rightControllerMovement": 64.18798828125,
+            "lookAroundYawRange": 359.88092041015627,
+            "lookAroundPitchRange": 83.66575622558594
+        },
+        {
+            "playerId": "8e4cb049-b396-45bb-971a-9753c615265a",
+            "timestamp": "2025-06-01T07:20:14.1518920Z",
+            "score": 1060,
+            "dartsFired": 63,
+            "balloonsPopped": 35,
+            "headMovement": 9.339682579040528,
+            "accuracy": 0.5555555820465088,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 88
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 2.7970986366271974,
+            "rightControllerMovement": 39.23295211791992,
+            "lookAroundYawRange": 217.5475311279297,
+            "lookAroundPitchRange": 84.67195129394531
+        },
+        {
+            "playerId": "281c9d1e-dde1-4054-a45f-c26c021db2b6",
+            "timestamp": "2025-06-01T07:24:32.4355990Z",
+            "score": 2405,
+            "dartsFired": 141,
+            "balloonsPopped": 100,
+            "headMovement": 11.033735275268555,
+            "accuracy": 0.7092198729515076,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 127
+                },
+                {
+                    "actionName": "grip",
+                    "count": 31
+                }
+            ],
+            "leftControllerMovement": 4.823019504547119,
+            "rightControllerMovement": 41.602256774902347,
+            "lookAroundYawRange": 359.95147705078127,
+            "lookAroundPitchRange": 44.49943161010742
+        },
+        {
+            "playerId": "a62ef3fa-e954-4fb4-b8de-5455ba7fee1a",
+            "timestamp": "2025-06-01T08:23:57.2778720Z",
+            "score": 25,
+            "dartsFired": 17,
+            "balloonsPopped": 5,
+            "headMovement": 32.77702331542969,
+            "accuracy": 0.29411765933036806,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 9
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 17
+                }
+            ],
+            "leftControllerMovement": 17.079998016357423,
+            "rightControllerMovement": 37.129817962646487,
+            "lookAroundYawRange": 359.39599609375,
+            "lookAroundPitchRange": 125.654052734375
+        },
+        {
+            "playerId": "2b0779a3-4bf6-4a12-8103-36c6e430f87c",
+            "timestamp": "2025-06-01T08:42:44.0544660Z",
+            "score": 75,
+            "dartsFired": 10,
+            "balloonsPopped": 6,
+            "headMovement": 6.587829113006592,
+            "accuracy": 0.6000000238418579,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 9
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 4.906391620635986,
+            "rightControllerMovement": 12.00238037109375,
+            "lookAroundYawRange": 94.04279327392578,
+            "lookAroundPitchRange": 88.73260498046875
+        },
+        {
+            "playerId": "a68741d9-52e5-441b-9940-78c05af0c447",
+            "timestamp": "2025-06-01T08:43:55.1079300Z",
+            "score": 5,
+            "dartsFired": 3,
+            "balloonsPopped": 1,
+            "headMovement": 7.664042949676514,
+            "accuracy": 0.3333333432674408,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 2.695342779159546,
+            "rightControllerMovement": 9.774712562561036,
+            "lookAroundYawRange": 358.90313720703127,
+            "lookAroundPitchRange": 87.68697357177735
+        },
+        {
+            "playerId": "b2b4059b-2536-409a-82c6-df7f553fb965",
+            "timestamp": "2025-06-01T08:47:28.6394950Z",
+            "score": 5,
+            "dartsFired": 4,
+            "balloonsPopped": 1,
+            "headMovement": 5.684645652770996,
+            "accuracy": 0.25,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 3
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 2.4953157901763918,
+            "rightControllerMovement": 6.399670600891113,
+            "lookAroundYawRange": 358.7230224609375,
+            "lookAroundPitchRange": 58.92387771606445
+        },
+        {
+            "playerId": "d602485a-3751-455c-8cf2-1281bfc7a884",
+            "timestamp": "2025-06-01T08:50:41.8366130Z",
+            "score": 4350,
+            "dartsFired": 201,
+            "balloonsPopped": 144,
+            "headMovement": 7.004027843475342,
+            "accuracy": 0.7164179086685181,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 254
+                },
+                {
+                    "actionName": "grip",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 1.8150111436843873,
+            "rightControllerMovement": 34.972007751464847,
+            "lookAroundYawRange": 359.9648132324219,
+            "lookAroundPitchRange": 65.30650329589844
+        },
+        {
+            "playerId": "275e1ee4-d010-4ee1-bb3d-2f44834afed6",
+            "timestamp": "2025-06-01T09:01:32.1709760Z",
+            "score": 5295,
+            "dartsFired": 167,
+            "balloonsPopped": 110,
+            "headMovement": 10.640881538391114,
+            "accuracy": 0.658682644367218,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 60
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 128
+                }
+            ],
+            "leftControllerMovement": 0.0468035563826561,
+            "rightControllerMovement": 45.079837799072269,
+            "lookAroundYawRange": 359.935302734375,
+            "lookAroundPitchRange": 99.4374008178711
+        },
+        {
+            "playerId": "caa2b506-a8bc-4358-9c1c-9f525168fdcf",
+            "timestamp": "2025-06-01T09:08:15.8703140Z",
+            "score": 2095,
+            "dartsFired": 93,
+            "balloonsPopped": 43,
+            "headMovement": 36.10014724731445,
+            "accuracy": 0.46236559748649599,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 26
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 97
+                }
+            ],
+            "leftControllerMovement": 14.152987480163575,
+            "rightControllerMovement": 76.45207977294922,
+            "lookAroundYawRange": 359.93359375,
+            "lookAroundPitchRange": 143.8829345703125
+        },
+        {
+            "playerId": "586dfaf0-84ad-4db6-8de9-6835d317a9fa",
+            "timestamp": "2025-06-01T09:13:38.5228150Z",
+            "score": 2545,
+            "dartsFired": 205,
+            "balloonsPopped": 80,
+            "headMovement": 21.605649948120118,
+            "accuracy": 0.39024388790130618,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 215
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 145
+                }
+            ],
+            "leftControllerMovement": 5.989170551300049,
+            "rightControllerMovement": 111.51554870605469,
+            "lookAroundYawRange": 359.9307861328125,
+            "lookAroundPitchRange": 165.22235107421876
+        },
+        {
+            "playerId": "17cd27b3-1afa-4336-a82d-738e820d6683",
+            "timestamp": "2025-06-01T09:17:56.1288800Z",
+            "score": 480,
+            "dartsFired": 173,
+            "balloonsPopped": 41,
+            "headMovement": 14.284022331237793,
+            "accuracy": 0.23699422180652619,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 260
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 27
+                }
+            ],
+            "leftControllerMovement": 3.383826971054077,
+            "rightControllerMovement": 87.2760238647461,
+            "lookAroundYawRange": 359.6212158203125,
+            "lookAroundPitchRange": 121.18154907226563
+        },
+        {
+            "playerId": "d4ccfe08-8d46-480e-b403-b7bb5ec35bf5",
+            "timestamp": "2025-06-01T09:21:59.5638940Z",
+            "score": 1465,
+            "dartsFired": 213,
+            "balloonsPopped": 53,
+            "headMovement": 12.229913711547852,
+            "accuracy": 0.2488262951374054,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 370
+                }
+            ],
+            "leftControllerMovement": 9.911048889160157,
+            "rightControllerMovement": 75.92523193359375,
+            "lookAroundYawRange": 359.69366455078127,
+            "lookAroundPitchRange": 58.36689376831055
+        },
+        {
+            "playerId": "b68b5a0d-f641-4c2a-97ca-85315c4383ce",
+            "timestamp": "2025-06-01T09:23:24.0806260Z",
+            "score": 5,
+            "dartsFired": 2,
+            "balloonsPopped": 1,
+            "headMovement": 2.1094212532043459,
+            "accuracy": 0.5,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 1.1975222826004029,
+            "rightControllerMovement": 3.4809136390686037,
+            "lookAroundYawRange": 138.42593383789063,
+            "lookAroundPitchRange": 105.19700622558594
+        },
+        {
+            "playerId": "9e678d35-37f4-4566-bfff-b868fb866c4d",
+            "timestamp": "2025-06-01T09:25:17.5782460Z",
+            "score": 430,
+            "dartsFired": 35,
+            "balloonsPopped": 7,
+            "headMovement": 12.702193260192871,
+            "accuracy": 0.20000000298023225,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 33
+                },
+                {
+                    "actionName": "grip",
+                    "count": 12
+                }
+            ],
+            "leftControllerMovement": 1.9594995975494385,
+            "rightControllerMovement": 26.5406551361084,
+            "lookAroundYawRange": 359.1388854980469,
+            "lookAroundPitchRange": 129.71116638183595
+        },
+        {
+            "playerId": "87f1b1bc-11d8-43a5-bf7d-fcde431d35ad",
+            "timestamp": "2025-06-01T09:28:30.7815110Z",
+            "score": 2150,
+            "dartsFired": 108,
+            "balloonsPopped": 31,
+            "headMovement": 13.954483032226563,
+            "accuracy": 0.28703704476356509,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 80
+                },
+                {
+                    "actionName": "grip",
+                    "count": 89
+                }
+            ],
+            "leftControllerMovement": 1.7382086515426636,
+            "rightControllerMovement": 80.2853775024414,
+            "lookAroundYawRange": 359.5729675292969,
+            "lookAroundPitchRange": 91.8631362915039
+        },
+        {
+            "playerId": "e5f53595-efce-4f44-b94e-142606d98950",
+            "timestamp": "2025-06-01T09:36:35.0178570Z",
+            "score": 1900,
+            "dartsFired": 113,
+            "balloonsPopped": 49,
+            "headMovement": 15.823477745056153,
+            "accuracy": 0.4336283206939697,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 129
+                },
+                {
+                    "actionName": "grip",
+                    "count": 18
+                }
+            ],
+            "leftControllerMovement": 16.034683227539064,
+            "rightControllerMovement": 57.20874786376953,
+            "lookAroundYawRange": 359.5422058105469,
+            "lookAroundPitchRange": 149.77044677734376
+        },
+        {
+            "playerId": "be07560a-a4f1-483f-ab4c-62fce10a0bfc",
+            "timestamp": "2025-06-01T09:46:24.0758300Z",
+            "score": 880,
+            "dartsFired": 77,
+            "balloonsPopped": 21,
+            "headMovement": 28.876501083374025,
+            "accuracy": 0.27272728085517886,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 17
+                },
+                {
+                    "actionName": "grip",
+                    "count": 82
+                }
+            ],
+            "leftControllerMovement": 12.834754943847657,
+            "rightControllerMovement": 47.94963836669922,
+            "lookAroundYawRange": 359.6763610839844,
+            "lookAroundPitchRange": 141.8402862548828
+        },
+        {
+            "playerId": "a70c0fdc-49e8-4884-9c37-b7c6ad0c1727",
+            "timestamp": "2025-06-01T09:50:46.3457470Z",
+            "score": 1865,
+            "dartsFired": 159,
+            "balloonsPopped": 33,
+            "headMovement": 12.442788124084473,
+            "accuracy": 0.2075471729040146,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                },
+                {
+                    "actionName": "grip",
+                    "count": 208
+                }
+            ],
+            "leftControllerMovement": 2.3213865756988527,
+            "rightControllerMovement": 30.209060668945314,
+            "lookAroundYawRange": 359.9073181152344,
+            "lookAroundPitchRange": 142.436279296875
+        },
+        {
+            "playerId": "a5251cdf-b439-4fe3-a96a-bb2e50a745bf",
+            "timestamp": "2025-06-01T10:08:37.9036460Z",
+            "score": 3885,
+            "dartsFired": 171,
+            "balloonsPopped": 85,
+            "headMovement": 8.684591293334961,
+            "accuracy": 0.49707603454589846,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 204
+                },
+                {
+                    "actionName": "grip",
+                    "count": 5
+                }
+            ],
+            "leftControllerMovement": 3.630338430404663,
+            "rightControllerMovement": 48.587032318115237,
+            "lookAroundYawRange": 359.92327880859377,
+            "lookAroundPitchRange": 79.46205139160156
+        },
+        {
+            "playerId": "9bc2276b-993f-43fd-bdfe-16ced2dc430f",
+            "timestamp": "2025-06-01T10:13:14.8182410Z",
+            "score": 3190,
+            "dartsFired": 157,
+            "balloonsPopped": 68,
+            "headMovement": 12.452592849731446,
+            "accuracy": 0.4331210255622864,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 27
+                },
+                {
+                    "actionName": "grip",
+                    "count": 204
+                }
+            ],
+            "leftControllerMovement": 0.03708043321967125,
+            "rightControllerMovement": 44.99235153198242,
+            "lookAroundYawRange": 359.82635498046877,
+            "lookAroundPitchRange": 69.62507629394531
+        },
+        {
+            "playerId": "0ab1b84f-4b93-4866-93e9-02bd7ee3a20c",
+            "timestamp": "2025-06-01T10:16:14.1471480Z",
+            "score": 120,
+            "dartsFired": 44,
+            "balloonsPopped": 12,
+            "headMovement": 8.701163291931153,
+            "accuracy": 0.27272728085517886,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 38
+                },
+                {
+                    "actionName": "grip",
+                    "count": 15
+                }
+            ],
+            "leftControllerMovement": 0.6578831076622009,
+            "rightControllerMovement": 30.202667236328126,
+            "lookAroundYawRange": 359.2153625488281,
+            "lookAroundPitchRange": 129.902099609375
+        },
+        {
+            "playerId": "04933366-5b2b-4cc8-baab-a4e2b1fae921",
+            "timestamp": "2025-06-01T10:19:36.5010660Z",
+            "score": 635,
+            "dartsFired": 160,
+            "balloonsPopped": 45,
+            "headMovement": 19.797622680664064,
+            "accuracy": 0.28125,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 9
+                },
+                {
+                    "actionName": "grip",
+                    "count": 216
+                }
+            ],
+            "leftControllerMovement": 0.045123275369405749,
+            "rightControllerMovement": 85.7639389038086,
+            "lookAroundYawRange": 359.92431640625,
+            "lookAroundPitchRange": 165.822509765625
+        },
+        {
+            "playerId": "441d330a-e4cf-4be1-8388-16876ce1d897",
+            "timestamp": "2025-06-01T10:23:49.1062730Z",
+            "score": 570,
+            "dartsFired": 64,
+            "balloonsPopped": 29,
+            "headMovement": 18.19074249267578,
+            "accuracy": 0.453125,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 73
+                },
+                {
+                    "actionName": "grip",
+                    "count": 17
+                }
+            ],
+            "leftControllerMovement": 0.04165339842438698,
+            "rightControllerMovement": 38.93965148925781,
+            "lookAroundYawRange": 359.858642578125,
+            "lookAroundPitchRange": 137.98936462402345
+        },
+        {
+            "playerId": "be29ff01-a876-433f-8c93-9e1a630c3545",
+            "timestamp": "2025-06-01T10:27:13.1841750Z",
+            "score": 4715,
+            "dartsFired": 243,
+            "balloonsPopped": 103,
+            "headMovement": 21.361007690429689,
+            "accuracy": 0.4238682985305786,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 180
+                },
+                {
+                    "actionName": "grip",
+                    "count": 235
+                }
+            ],
+            "leftControllerMovement": 0.03995715454220772,
+            "rightControllerMovement": 82.1402816772461,
+            "lookAroundYawRange": 359.5906982421875,
+            "lookAroundPitchRange": 108.95516204833985
+        },
+        {
+            "playerId": "42874ad7-3f31-477a-ad75-35bc3ca53414",
+            "timestamp": "2025-06-01T10:33:20.3503210Z",
+            "score": 2715,
+            "dartsFired": 173,
+            "balloonsPopped": 59,
+            "headMovement": 10.098896026611329,
+            "accuracy": 0.3410404622554779,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 184
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 0.03984983637928963,
+            "rightControllerMovement": 55.665611267089847,
+            "lookAroundYawRange": 359.96954345703127,
+            "lookAroundPitchRange": 67.32366943359375
+        },
+        {
+            "playerId": "a833da43-b664-4714-bd51-50b0c82252bf",
+            "timestamp": "2025-06-01T10:37:22.2017410Z",
+            "score": 2140,
+            "dartsFired": 124,
+            "balloonsPopped": 53,
+            "headMovement": 14.518366813659668,
+            "accuracy": 0.42741936445236208,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 146
+                }
+            ],
+            "leftControllerMovement": 0.03859981149435043,
+            "rightControllerMovement": 59.70677947998047,
+            "lookAroundYawRange": 359.735595703125,
+            "lookAroundPitchRange": 107.9112777709961
+        },
+        {
+            "playerId": "c63020a1-11a0-451a-9e4e-3767f67b8b23",
+            "timestamp": "2025-06-01T10:40:58.2031500Z",
+            "score": 0,
+            "dartsFired": 3,
+            "balloonsPopped": 0,
+            "headMovement": 13.551826477050782,
+            "accuracy": 0.0,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                },
+                {
+                    "actionName": "grip",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 0.00310687767341733,
+            "rightControllerMovement": 11.75206184387207,
+            "lookAroundYawRange": 359.62249755859377,
+            "lookAroundPitchRange": 108.25403594970703
+        },
+        {
+            "playerId": "c0dbf80a-faf0-44fd-bf01-bb073972a3b8",
+            "timestamp": "2025-06-01T10:44:11.3804860Z",
+            "score": 870,
+            "dartsFired": 109,
+            "balloonsPopped": 12,
+            "headMovement": 15.391335487365723,
+            "accuracy": 0.11009174585342407,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 152
+                },
+                {
+                    "actionName": "grip",
+                    "count": 22
+                }
+            ],
+            "leftControllerMovement": 0.04171249642968178,
+            "rightControllerMovement": 75.94507598876953,
+            "lookAroundYawRange": 359.99847412109377,
+            "lookAroundPitchRange": 102.01679992675781
+        },
+        {
+            "playerId": "53574053-4615-44e9-b975-6bcf5c76f27e",
+            "timestamp": "2025-06-01T10:52:25.0709550Z",
+            "score": 1690,
+            "dartsFired": 132,
+            "balloonsPopped": 32,
+            "headMovement": 16.67104721069336,
+            "accuracy": 0.24242424964904786,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 118
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 77
+                }
+            ],
+            "leftControllerMovement": 8.797599792480469,
+            "rightControllerMovement": 19.179235458374025,
+            "lookAroundYawRange": 359.792236328125,
+            "lookAroundPitchRange": 111.1783676147461
+        },
+        {
+            "playerId": "3ca1d762-aa26-48e8-b0c2-a6941065a3dd",
+            "timestamp": "2025-06-01T10:58:11.4131540Z",
+            "score": 3200,
+            "dartsFired": 239,
+            "balloonsPopped": 120,
+            "headMovement": 7.241229057312012,
+            "accuracy": 0.5020920634269714,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 5
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 423
+                }
+            ],
+            "leftControllerMovement": 4.472822189331055,
+            "rightControllerMovement": 33.586795806884769,
+            "lookAroundYawRange": 359.9056396484375,
+            "lookAroundPitchRange": 65.22545623779297
+        },
+        {
+            "playerId": "e26a3fdf-243e-415d-acad-55975ca18e98",
+            "timestamp": "2025-06-01T11:57:44.0669460Z",
+            "score": 2965,
+            "dartsFired": 194,
+            "balloonsPopped": 83,
+            "headMovement": 26.932884216308595,
+            "accuracy": 0.42783504724502566,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 254
+                },
+                {
+                    "actionName": "grip",
+                    "count": 14
+                }
+            ],
+            "leftControllerMovement": 1.8445324897766114,
+            "rightControllerMovement": 106.68987274169922,
+            "lookAroundYawRange": 359.9899597167969,
+            "lookAroundPitchRange": 139.3192138671875
+        },
+        {
+            "playerId": "778eac62-aec4-40d5-b3d5-06e5cbb9e158",
+            "timestamp": "2025-06-01T12:05:35.4465990Z",
+            "score": 5,
+            "dartsFired": 12,
+            "balloonsPopped": 1,
+            "headMovement": 6.927325248718262,
+            "accuracy": 0.0833333358168602,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 20
+                }
+            ],
+            "leftControllerMovement": 0.004895578138530254,
+            "rightControllerMovement": 6.00787353515625,
+            "lookAroundYawRange": 359.2052307128906,
+            "lookAroundPitchRange": 101.34932708740235
+        },
+        {
+            "playerId": "27b7d6f3-1618-465b-a1be-b3d75a092040",
+            "timestamp": "2025-06-01T12:08:48.6074190Z",
+            "score": 805,
+            "dartsFired": 86,
+            "balloonsPopped": 27,
+            "headMovement": 6.557394504547119,
+            "accuracy": 0.3139534890651703,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 80
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 15
+                }
+            ],
+            "leftControllerMovement": 0.5219744443893433,
+            "rightControllerMovement": 8.882964134216309,
+            "lookAroundYawRange": 359.89129638671877,
+            "lookAroundPitchRange": 87.90243530273438
+        },
+        {
+            "playerId": "ce029b95-0a2d-424a-bb93-aaa3faafde0f",
+            "timestamp": "2025-06-01T12:13:12.0301470Z",
+            "score": 2160,
+            "dartsFired": 145,
+            "balloonsPopped": 25,
+            "headMovement": 20.76585578918457,
+            "accuracy": 0.17241379618644715,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 198
+                }
+            ],
+            "leftControllerMovement": 1.2061868906021119,
+            "rightControllerMovement": 37.82456588745117,
+            "lookAroundYawRange": 359.76641845703127,
+            "lookAroundPitchRange": 90.32508087158203
+        },
+        {
+            "playerId": "25b40a0c-be3c-4a60-a0bf-9478215d19d4",
+            "timestamp": "2025-06-01T12:17:22.6142960Z",
+            "score": 315,
+            "dartsFired": 58,
+            "balloonsPopped": 9,
+            "headMovement": 19.140092849731447,
+            "accuracy": 0.1551724076271057,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 33
+                },
+                {
+                    "actionName": "grip",
+                    "count": 38
+                }
+            ],
+            "leftControllerMovement": 0.039996709674596789,
+            "rightControllerMovement": 80.4307861328125,
+            "lookAroundYawRange": 359.9058837890625,
+            "lookAroundPitchRange": 113.10888671875
+        },
+        {
+            "playerId": "a28e310d-98f3-427d-a744-b22972f452b3",
+            "timestamp": "2025-06-01T12:18:26.9248100Z",
+            "score": 15,
+            "dartsFired": 17,
+            "balloonsPopped": 2,
+            "headMovement": 9.71764850616455,
+            "accuracy": 0.11764705926179886,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 13
+                },
+                {
+                    "actionName": "grip",
+                    "count": 11
+                }
+            ],
+            "leftControllerMovement": 0.009626035578548909,
+            "rightControllerMovement": 14.245372772216797,
+            "lookAroundYawRange": 359.54058837890627,
+            "lookAroundPitchRange": 120.86677551269531
+        },
+        {
+            "playerId": "6aa15572-070e-4684-91a2-fb9efe45a84c",
+            "timestamp": "2025-06-01T12:25:25.2815150Z",
+            "score": 1715,
+            "dartsFired": 162,
+            "balloonsPopped": 58,
+            "headMovement": 33.383052825927737,
+            "accuracy": 0.3580246865749359,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 203
+                },
+                {
+                    "actionName": "grip",
+                    "count": 13
+                }
+            ],
+            "leftControllerMovement": 1.8450889587402344,
+            "rightControllerMovement": 94.90729522705078,
+            "lookAroundYawRange": 359.9940185546875,
+            "lookAroundPitchRange": 172.23477172851563
+        },
+        {
+            "playerId": "9798de8d-0b6a-4a9a-9fb3-947a2e13466c",
+            "timestamp": "2025-06-01T12:30:24.5683940Z",
+            "score": 3355,
+            "dartsFired": 197,
+            "balloonsPopped": 91,
+            "headMovement": 18.146955490112306,
+            "accuracy": 0.46192893385887148,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 348
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 0.0424061194062233,
+            "rightControllerMovement": 42.11971664428711,
+            "lookAroundYawRange": 359.9433288574219,
+            "lookAroundPitchRange": 123.00988006591797
+        },
+        {
+            "playerId": "72249ae6-3332-4d88-86f9-a65ef253fd3b",
+            "timestamp": "2025-06-01T12:37:23.4640490Z",
+            "score": 3835,
+            "dartsFired": 210,
+            "balloonsPopped": 97,
+            "headMovement": 13.359786987304688,
+            "accuracy": 0.46190476417541506,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 304
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.04362921044230461,
+            "rightControllerMovement": 72.26813507080078,
+            "lookAroundYawRange": 359.71307373046877,
+            "lookAroundPitchRange": 95.0662841796875
+        },
+        {
+            "playerId": "f50f7838-5957-49ef-a3fc-9fb4368a6a71",
+            "timestamp": "2025-06-11T13:12:36.6128770Z",
+            "score": 3755,
+            "dartsFired": 169,
+            "balloonsPopped": 145,
+            "headMovement": 35.51898193359375,
+            "accuracy": 0.857988178730011,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 177
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 12.814108848571778,
+            "rightControllerMovement": 79.59162139892578,
+            "lookAroundYawRange": 359.8658447265625,
+            "lookAroundPitchRange": 128.59361267089845
+        },
+        {
+            "playerId": "c0e2e28c-ea16-49ea-b9ff-a79cccd595b0",
+            "timestamp": "2025-06-11T13:15:49.8268490Z",
+            "score": 6095,
+            "dartsFired": 236,
+            "balloonsPopped": 176,
+            "headMovement": 32.473976135253909,
+            "accuracy": 0.7457627058029175,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 255
+                }
+            ],
+            "leftControllerMovement": 81.1898193359375,
+            "rightControllerMovement": 97.92725372314453,
+            "lookAroundYawRange": 359.6045227050781,
+            "lookAroundPitchRange": 110.65428161621094
+        },
+        {
+            "playerId": "8531ba53-37df-435c-94ad-f5fe06fa6692",
+            "timestamp": "2025-07-11T11:16:59.3854590Z",
+            "score": 550,
+            "dartsFired": 7,
+            "balloonsPopped": 6,
+            "headMovement": 8.738654136657715,
+            "accuracy": 0.8571428656578064,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 7
+                },
+                {
+                    "actionName": "grip",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 6.330777168273926,
+            "rightControllerMovement": 14.046895980834961,
+            "lookAroundYawRange": 174.12237548828126,
+            "lookAroundPitchRange": 81.64290618896485
+        },
+        {
+            "playerId": "eb690df0-142b-47e1-b4e3-7af3cc2752f0",
+            "timestamp": "2025-07-11T11:23:29.4092060Z",
+            "score": 1545,
+            "dartsFired": 109,
+            "balloonsPopped": 41,
+            "headMovement": 26.857820510864259,
+            "accuracy": 0.3761467933654785,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 73
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 71
+                }
+            ],
+            "leftControllerMovement": 11.21627426147461,
+            "rightControllerMovement": 74.45028686523438,
+            "lookAroundYawRange": 359.7528076171875,
+            "lookAroundPitchRange": 169.24554443359376
+        },
+        {
+            "playerId": "e3eb7a29-4cd1-4a01-9ee7-3622000519b7",
+            "timestamp": "2025-07-11T11:27:05.8592470Z",
+            "score": 375,
+            "dartsFired": 93,
+            "balloonsPopped": 21,
+            "headMovement": 22.890668869018556,
+            "accuracy": 0.22580644488334657,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 46
+                },
+                {
+                    "actionName": "grip",
+                    "count": 79
+                }
+            ],
+            "leftControllerMovement": 1.4344918727874756,
+            "rightControllerMovement": 74.71314239501953,
+            "lookAroundYawRange": 359.781494140625,
+            "lookAroundPitchRange": 138.36953735351563
+        },
+        {
+            "playerId": "fbdde93d-d3d4-4f62-8c8f-50749948ee62",
+            "timestamp": "2025-07-11T11:30:58.7350520Z",
+            "score": 3000,
+            "dartsFired": 218,
+            "balloonsPopped": 84,
+            "headMovement": 17.745655059814454,
+            "accuracy": 0.38532111048698428,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 267
+                },
+                {
+                    "actionName": "grip",
+                    "count": 99
+                }
+            ],
+            "leftControllerMovement": 0.03748862445354462,
+            "rightControllerMovement": 51.433799743652347,
+            "lookAroundYawRange": 359.92291259765627,
+            "lookAroundPitchRange": 85.10308837890625
+        },
+        {
+            "playerId": "29e835ba-1c72-4853-a413-10652baa338a",
+            "timestamp": "2025-07-11T11:35:37.4239050Z",
+            "score": 2285,
+            "dartsFired": 195,
+            "balloonsPopped": 90,
+            "headMovement": 9.540556907653809,
+            "accuracy": 0.4615384638309479,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                },
+                {
+                    "actionName": "grip",
+                    "count": 213
+                }
+            ],
+            "leftControllerMovement": 0.03520253300666809,
+            "rightControllerMovement": 65.08948516845703,
+            "lookAroundYawRange": 359.96612548828127,
+            "lookAroundPitchRange": 72.78984069824219
+        },
+        {
+            "playerId": "0ac026c1-e763-4ca8-b2cb-ca638431e903",
+            "timestamp": "2025-07-11T11:39:14.5456560Z",
+            "score": 790,
+            "dartsFired": 96,
+            "balloonsPopped": 30,
+            "headMovement": 18.34743881225586,
+            "accuracy": 0.3125,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 55
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 75
+                }
+            ],
+            "leftControllerMovement": 0.03599930554628372,
+            "rightControllerMovement": 69.24569702148438,
+            "lookAroundYawRange": 359.986572265625,
+            "lookAroundPitchRange": 102.21561431884766
+        },
+        {
+            "playerId": "91126806-141c-4786-8db8-22de0ea2184a",
+            "timestamp": "2025-07-11T11:42:50.9256700Z",
+            "score": 610,
+            "dartsFired": 121,
+            "balloonsPopped": 28,
+            "headMovement": 23.039182662963868,
+            "accuracy": 0.23140496015548707,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 71
+                },
+                {
+                    "actionName": "grip",
+                    "count": 68
+                }
+            ],
+            "leftControllerMovement": 0.03736584261059761,
+            "rightControllerMovement": 65.06421661376953,
+            "lookAroundYawRange": 359.88751220703127,
+            "lookAroundPitchRange": 84.378173828125
+        },
+        {
+            "playerId": "fde93568-3ff9-426a-b4f3-5a33aa4570d7",
+            "timestamp": "2025-07-11T11:47:08.5299290Z",
+            "score": 940,
+            "dartsFired": 102,
+            "balloonsPopped": 22,
+            "headMovement": 11.548050880432129,
+            "accuracy": 0.21568627655506135,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 72
+                },
+                {
+                    "actionName": "grip",
+                    "count": 64
+                }
+            ],
+            "leftControllerMovement": 1.1883608102798463,
+            "rightControllerMovement": 61.69258117675781,
+            "lookAroundYawRange": 359.0782470703125,
+            "lookAroundPitchRange": 61.3021240234375
+        },
+        {
+            "playerId": "3ab18f69-cbc7-4786-be24-a91e998038ce",
+            "timestamp": "2025-07-11T11:51:37.5778840Z",
+            "score": 2340,
+            "dartsFired": 205,
+            "balloonsPopped": 66,
+            "headMovement": 5.1466240882873539,
+            "accuracy": 0.3219512104988098,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 12
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 361
+                }
+            ],
+            "leftControllerMovement": 0.12669315934181214,
+            "rightControllerMovement": 54.70368576049805,
+            "lookAroundYawRange": 359.5367431640625,
+            "lookAroundPitchRange": 69.12480163574219
+        },
+        {
+            "playerId": "af75a879-9e87-4743-b574-9b44ae086ed4",
+            "timestamp": "2025-07-11T11:55:43.2657470Z",
+            "score": 920,
+            "dartsFired": 236,
+            "balloonsPopped": 48,
+            "headMovement": 12.191731452941895,
+            "accuracy": 0.20338982343673707,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 443
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 0.31216707825660708,
+            "rightControllerMovement": 78.41788482666016,
+            "lookAroundYawRange": 359.71551513671877,
+            "lookAroundPitchRange": 132.9639892578125
+        },
+        {
+            "playerId": "cf2d38bb-29e2-462f-8208-eacf4d3f0454",
+            "timestamp": "2025-07-11T11:59:42.4085790Z",
+            "score": 855,
+            "dartsFired": 97,
+            "balloonsPopped": 33,
+            "headMovement": 8.339187622070313,
+            "accuracy": 0.34020617604255679,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 102
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 0.3788926303386688,
+            "rightControllerMovement": 67.58332824707031,
+            "lookAroundYawRange": 359.8569030761719,
+            "lookAroundPitchRange": 51.60203552246094
+        },
+        {
+            "playerId": "15f24457-3bf6-4a27-a0ea-dcae537ad7f3",
+            "timestamp": "2025-07-11T12:04:22.4214580Z",
+            "score": 710,
+            "dartsFired": 55,
+            "balloonsPopped": 15,
+            "headMovement": 13.171807289123536,
+            "accuracy": 0.27272728085517886,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 38
+                },
+                {
+                    "actionName": "grip",
+                    "count": 34
+                }
+            ],
+            "leftControllerMovement": 0.8081710934638977,
+            "rightControllerMovement": 59.8382682800293,
+            "lookAroundYawRange": 359.9691162109375,
+            "lookAroundPitchRange": 135.98866271972657
+        },
+        {
+            "playerId": "1467d55b-2d28-4d6c-9069-0b2e1260e388",
+            "timestamp": "2025-07-12T15:13:56.6517350Z",
+            "score": 1325,
+            "dartsFired": 96,
+            "balloonsPopped": 37,
+            "headMovement": 28.66794204711914,
+            "accuracy": 0.3854166567325592,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 41
+                },
+                {
+                    "actionName": "grip",
+                    "count": 79
+                }
+            ],
+            "leftControllerMovement": 35.24580764770508,
+            "rightControllerMovement": 42.02070999145508,
+            "lookAroundYawRange": 359.9254455566406,
+            "lookAroundPitchRange": 142.05673217773438
+        },
+          {
+            "playerId": "52b455cc-421e-46cb-842f-f9adab228941",
+            "timestamp": "2025-06-01T08:51:56.8348470Z",
+            "score": 2515,
+            "dartsFired": 136,
+            "balloonsPopped": 58,
+            "headMovement": 22.81022834777832,
+            "accuracy": 0.4264705777168274,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 229
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 12
+                }
+            ],
+            "leftControllerMovement": 34.30965805053711,
+            "rightControllerMovement": 39.437747955322269,
+            "lookAroundYawRange": 359.9666748046875,
+            "lookAroundPitchRange": 122.10039520263672
+        },
+        {
+            "playerId": "23ba1c46-e114-455d-8c19-0817fbc73ad3",
+            "timestamp": "2025-06-01T08:58:02.4953680Z",
+            "score": 3615,
+            "dartsFired": 151,
+            "balloonsPopped": 87,
+            "headMovement": 3.836834669113159,
+            "accuracy": 0.5761589407920837,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 216
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 4.386815547943115,
+            "rightControllerMovement": 30.583730697631837,
+            "lookAroundYawRange": 356.4854736328125,
+            "lookAroundPitchRange": 38.56290817260742
+        },
+        {
+            "playerId": "51722e91-16f2-42d5-aa0a-34b61ecf4235",
+            "timestamp": "2025-06-01T09:09:39.0974400Z",
+            "score": 415,
+            "dartsFired": 145,
+            "balloonsPopped": 26,
+            "headMovement": 11.154547691345215,
+            "accuracy": 0.17931035161018372,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 136
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 33
+                }
+            ],
+            "leftControllerMovement": 18.875951766967775,
+            "rightControllerMovement": 69.36927795410156,
+            "lookAroundYawRange": 359.89990234375,
+            "lookAroundPitchRange": 110.86518859863281
+        },
+        {
+            "playerId": "dd4da2d9-0280-421b-ab95-b6464b0d0b9f",
+            "timestamp": "2025-06-01T09:15:42.8904040Z",
+            "score": 3515,
+            "dartsFired": 234,
+            "balloonsPopped": 125,
+            "headMovement": 7.388951778411865,
+            "accuracy": 0.5341880321502686,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 281
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 16
+                }
+            ],
+            "leftControllerMovement": 7.431118011474609,
+            "rightControllerMovement": 42.17390823364258,
+            "lookAroundYawRange": 359.8228759765625,
+            "lookAroundPitchRange": 52.974029541015628
+        },
+        {
+            "playerId": "d190761b-7d1f-42fa-98aa-13334d0474bd",
+            "timestamp": "2025-06-01T09:22:48.2617510Z",
+            "score": 1820,
+            "dartsFired": 206,
+            "balloonsPopped": 86,
+            "headMovement": 7.367547035217285,
+            "accuracy": 0.41747573018074038,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 267
+                },
+                {
+                    "actionName": "grip",
+                    "count": 21
+                }
+            ],
+            "leftControllerMovement": 33.0408821105957,
+            "rightControllerMovement": 47.35405731201172,
+            "lookAroundYawRange": 359.899169921875,
+            "lookAroundPitchRange": 87.29505920410156
+        },
+        {
+            "playerId": "a0138d7d-09b4-4eaa-ab01-c1920cef47e4",
+            "timestamp": "2025-06-01T09:29:16.7194820Z",
+            "score": 1305,
+            "dartsFired": 206,
+            "balloonsPopped": 68,
+            "headMovement": 13.130660057067871,
+            "accuracy": 0.3300970792770386,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 23
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 311
+                }
+            ],
+            "leftControllerMovement": 10.004051208496094,
+            "rightControllerMovement": 40.456241607666019,
+            "lookAroundYawRange": 359.88446044921877,
+            "lookAroundPitchRange": 110.51212310791016
+        },
+        {
+            "playerId": "594ce6c9-502e-4546-93d6-54f9e60c0883",
+            "timestamp": "2025-06-01T09:35:59.3192720Z",
+            "score": 1315,
+            "dartsFired": 142,
+            "balloonsPopped": 62,
+            "headMovement": 5.5870208740234379,
+            "accuracy": 0.43661972880363467,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 55
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 197
+                }
+            ],
+            "leftControllerMovement": 4.562460899353027,
+            "rightControllerMovement": 43.313175201416019,
+            "lookAroundYawRange": 359.9822998046875,
+            "lookAroundPitchRange": 49.531044006347659
+        },
+        {
+            "playerId": "d7a8cee9-7752-4c32-a8fc-1d5ab98c0840",
+            "timestamp": "2025-06-01T09:41:09.7196890Z",
+            "score": 2830,
+            "dartsFired": 186,
+            "balloonsPopped": 94,
+            "headMovement": 9.335272789001465,
+            "accuracy": 0.5053763389587402,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 257
+                },
+                {
+                    "actionName": "grip",
+                    "count": 9
+                }
+            ],
+            "leftControllerMovement": 2.602322816848755,
+            "rightControllerMovement": 66.54562377929688,
+            "lookAroundYawRange": 359.4800109863281,
+            "lookAroundPitchRange": 55.36003112792969
+        },
+        {
+            "playerId": "b5e6c1d6-2405-4b10-a033-407de559ad95",
+            "timestamp": "2025-06-01T10:14:53.3345490Z",
+            "score": 25,
+            "dartsFired": 22,
+            "balloonsPopped": 5,
+            "headMovement": 25.277359008789064,
+            "accuracy": 0.22727273404598237,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 14
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 11
+                }
+            ],
+            "leftControllerMovement": 4.138439655303955,
+            "rightControllerMovement": 63.54248046875,
+            "lookAroundYawRange": 359.717529296875,
+            "lookAroundPitchRange": 157.18545532226563
+        },
+        {
+            "playerId": "32cc38a8-ef34-4a0f-adad-f6bf3a7c6e33",
+            "timestamp": "2025-06-01T10:18:07.5293370Z",
+            "score": 290,
+            "dartsFired": 37,
+            "balloonsPopped": 4,
+            "headMovement": 31.241926193237306,
+            "accuracy": 0.10810811072587967,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 53
+                }
+            ],
+            "leftControllerMovement": 23.964834213256837,
+            "rightControllerMovement": 94.09160614013672,
+            "lookAroundYawRange": 359.6287841796875,
+            "lookAroundPitchRange": 155.83404541015626
+        },
+        {
+            "playerId": "76dd13da-b179-4113-b6ae-8a37cf7dfd11",
+            "timestamp": "2025-06-01T10:35:09.6250880Z",
+            "score": 2920,
+            "dartsFired": 186,
+            "balloonsPopped": 94,
+            "headMovement": 8.366501808166504,
+            "accuracy": 0.5053763389587402,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 283
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 9.284501075744629,
+            "rightControllerMovement": 48.22463607788086,
+            "lookAroundYawRange": 359.5548400878906,
+            "lookAroundPitchRange": 84.51659393310547
+        },
+        {
+            "playerId": "f0486bbe-a3df-4c78-bc68-d47768c6739a",
+            "timestamp": "2025-06-01T10:39:44.0797470Z",
+            "score": 4040,
+            "dartsFired": 228,
+            "balloonsPopped": 132,
+            "headMovement": 11.472986221313477,
+            "accuracy": 0.5789473652839661,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 386
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 2
+                }
+            ],
+            "leftControllerMovement": 3.138015031814575,
+            "rightControllerMovement": 37.01884078979492,
+            "lookAroundYawRange": 359.97821044921877,
+            "lookAroundPitchRange": 101.47032165527344
+        },
+        {
+            "playerId": "28c33d19-e30e-4725-930a-5366a033e8ac",
+            "timestamp": "2025-06-01T10:45:12.1061520Z",
+            "score": 1245,
+            "dartsFired": 213,
+            "balloonsPopped": 61,
+            "headMovement": 16.118886947631837,
+            "accuracy": 0.2863849699497223,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 379
+                }
+            ],
+            "leftControllerMovement": 28.92109489440918,
+            "rightControllerMovement": 54.70956039428711,
+            "lookAroundYawRange": 359.9295349121094,
+            "lookAroundPitchRange": 169.9228515625
+        },
+        {
+            "playerId": "a5af9b69-72aa-4565-81a0-40e253b0ed76",
+            "timestamp": "2025-06-01T10:49:16.0706070Z",
+            "score": 3055,
+            "dartsFired": 192,
+            "balloonsPopped": 83,
+            "headMovement": 7.006916046142578,
+            "accuracy": 0.4322916567325592,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 142
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 221
+                }
+            ],
+            "leftControllerMovement": 1.336106538772583,
+            "rightControllerMovement": 46.923118591308597,
+            "lookAroundYawRange": 359.88812255859377,
+            "lookAroundPitchRange": 52.489952087402347
+        },
+        {
+            "playerId": "81b9ebcc-561b-439d-9fc6-92fc0d4e7195",
+            "timestamp": "2025-03-12T22:02:26.1248200Z",
+            "score": 4120,
+            "dartsFired": 184,
+            "balloonsPopped": 111,
+            "headMovement": 24.552791595458986,
+            "accuracy": 0.60326087474823,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 32
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 190
+                }
+            ],
+            "leftControllerMovement": 2.8684380054473879,
+            "rightControllerMovement": 81.02643585205078,
+            "lookAroundYawRange": 359.9322509765625,
+            "lookAroundPitchRange": 137.927490234375
+        },
+        {
+            "playerId": "602e3457-e83e-4d67-bbb4-db0ddad54ed4",
+            "timestamp": "2025-03-12T22:06:37.6551760Z",
+            "score": 1545,
+            "dartsFired": 161,
+            "balloonsPopped": 52,
+            "headMovement": 21.842004776000978,
+            "accuracy": 0.3229813575744629,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 63
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 176
+                }
+            ],
+            "leftControllerMovement": 3.6839334964752199,
+            "rightControllerMovement": 118.67779541015625,
+            "lookAroundYawRange": 359.9396667480469,
+            "lookAroundPitchRange": 145.16891479492188
+        },
+        {
+            "playerId": "fefb6260-89e2-42fb-9213-ba7d314dee81",
+            "timestamp": "2025-03-12T22:10:23.0528450Z",
+            "score": 2635,
+            "dartsFired": 198,
+            "balloonsPopped": 62,
+            "headMovement": 18.44300079345703,
+            "accuracy": 0.31313130259513857,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 270
+                },
+                {
+                    "actionName": "grip",
+                    "count": 48
+                }
+            ],
+            "leftControllerMovement": 19.04408836364746,
+            "rightControllerMovement": 83.46672058105469,
+            "lookAroundYawRange": 359.9724426269531,
+            "lookAroundPitchRange": 114.10365295410156
+        },
+        {
+            "playerId": "a1d8346a-de9b-4f6f-b70e-428493eca6e2",
+            "timestamp": "2025-03-12T22:14:23.5884150Z",
+            "score": 385,
+            "dartsFired": 198,
+            "balloonsPopped": 31,
+            "headMovement": 27.2122859954834,
+            "accuracy": 0.15656565129756928,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 330
+                }
+            ],
+            "leftControllerMovement": 52.150726318359378,
+            "rightControllerMovement": 136.866943359375,
+            "lookAroundYawRange": 359.91876220703127,
+            "lookAroundPitchRange": 154.17852783203126
+        },
+        {
+            "playerId": "eb73329f-6c5e-4fda-b870-cd07fe4e9e15",
+            "timestamp": "2025-03-12T22:24:34.0387850Z",
+            "score": 830,
+            "dartsFired": 168,
+            "balloonsPopped": 44,
+            "headMovement": 26.56254005432129,
+            "accuracy": 0.261904776096344,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 275
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 1
+                }
+            ],
+            "leftControllerMovement": 4.04404878616333,
+            "rightControllerMovement": 100.49594116210938,
+            "lookAroundYawRange": 359.956298828125,
+            "lookAroundPitchRange": 150.89488220214845
+        },
+        {
+            "playerId": "77ec790e-9f61-4917-b62e-2efebc974414",
+            "timestamp": "2025-03-12T22:30:42.7175210Z",
+            "score": 2930,
+            "dartsFired": 185,
+            "balloonsPopped": 79,
+            "headMovement": 18.64873504638672,
+            "accuracy": 0.42702701687812807,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 240
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 3
+                }
+            ],
+            "leftControllerMovement": 1.8360704183578492,
+            "rightControllerMovement": 90.1007080078125,
+            "lookAroundYawRange": 359.89227294921877,
+            "lookAroundPitchRange": 109.67204284667969
+        },
+        {
+            "playerId": "f4bfc025-f52f-4646-b355-aa195d51dad6",
+            "timestamp": "2025-03-12T22:44:17.6480960Z",
+            "score": 5425,
+            "dartsFired": 222,
+            "balloonsPopped": 114,
+            "headMovement": 11.847060203552246,
+            "accuracy": 0.5135135054588318,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 301
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 5
+                }
+            ],
+            "leftControllerMovement": 51.20698928833008,
+            "rightControllerMovement": 68.36204528808594,
+            "lookAroundYawRange": 359.9549560546875,
+            "lookAroundPitchRange": 58.48563003540039
+        },
+        {
+            "playerId": "56fca379-42c0-48ff-9806-4fdf00970e8a",
+            "timestamp": "2025-03-12T22:58:41.0044880Z",
+            "score": 1160,
+            "dartsFired": 124,
+            "balloonsPopped": 27,
+            "headMovement": 6.791978359222412,
+            "accuracy": 0.2177419364452362,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 75
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 83
+                }
+            ],
+            "leftControllerMovement": 5.877538204193115,
+            "rightControllerMovement": 48.951148986816409,
+            "lookAroundYawRange": 359.79852294921877,
+            "lookAroundPitchRange": 93.44546508789063
+        },
+        {
+            "playerId": "464f9be2-47a5-4c76-ac46-e5d4c82d6230",
+            "timestamp": "2025-03-12T23:03:13.1287440Z",
+            "score": 3525,
+            "dartsFired": 83,
+            "balloonsPopped": 48,
+            "headMovement": 17.236528396606447,
+            "accuracy": 0.5783132314682007,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 105
+                },
+                {
+                    "actionName": "trigger",
+                    "count": 10
+                }
+            ],
+            "leftControllerMovement": 0.06488154828548432,
+            "rightControllerMovement": 115.02588653564453,
+            "lookAroundYawRange": 359.9689025878906,
+            "lookAroundPitchRange": 128.40402221679688
+        },
+        {
+            "playerId": "f846cf6a-822b-445d-b384-59aa3c1f995d",
+            "timestamp": "2025-03-12T23:07:24.4129160Z",
+            "score": 2655,
+            "dartsFired": 221,
+            "balloonsPopped": 58,
+            "headMovement": 13.650115966796875,
+            "accuracy": 0.2624434530735016,
+            "buttonPresses": [
+                {
+                    "actionName": "grip",
+                    "count": 293
+                }
+            ],
+            "leftControllerMovement": 0.946128785610199,
+            "rightControllerMovement": 23.36224937438965,
+            "lookAroundYawRange": 359.89288330078127,
+            "lookAroundPitchRange": 95.60659790039063
+        },
+        {
+            "playerId": "3e5b506f-4aea-4a9d-8819-b21f8f2f59c2",
+            "timestamp": "2025-03-12T23:12:05.4762950Z",
+            "score": 1825,
+            "dartsFired": 213,
+            "balloonsPopped": 35,
+            "headMovement": 9.691704750061036,
+            "accuracy": 0.16431924700737,
+            "buttonPresses": [
+                {
+                    "actionName": "trigger",
+                    "count": 291
+                },
+                {
+                    "actionName": "grip",
+                    "count": 73
+                }
+            ],
+            "leftControllerMovement": 0.275821715593338,
+            "rightControllerMovement": 65.35897827148438,
+            "lookAroundYawRange": 359.88128662109377,
+            "lookAroundPitchRange": 91.07576751708985
+        }
+    
+}

@@ -107,3 +107,8 @@ These values are recorded automatically at the end of a play session.
   "lookAroundYawRange": 359.77,
   "lookAroundPitchRange": 42.42
 }
+```
+
+## Note
+
+- `data.json` contains all unfiltered play sessions (n=172). `sessions.csv` contains the play sessions after applying filters to exclude outliers, which are unlikely to be actual play sessions.
