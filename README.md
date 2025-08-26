@@ -61,4 +61,49 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
 
+## Telemetry Schema
 
+Each VRBloons session produces a single JSON entry with summary-level metrics logged at runtime.  
+These values are recorded automatically at the end of a play session.
+
+### Session-Level Fields
+- `playerId` *(string, GUID)* — Randomly generated unique identifier for each session.  
+- `timestamp` *(ISO 8601 string)* — UTC timestamp marking the start of the session.  
+- `score` *(int)* — Final total score earned by the player from all popped balloons.  
+- `dartsFired` *(int)* — Total number of darts thrown during the sessions.  
+- `balloonsPopped` *(int)* — Total number of balloons successfully hit by the player.  
+- `accuracy` *(float, 0–1)* — Hit accuracy calculated as
+**balloonsPopped** / **dartsFired**
+.  
+
+### Input Metrics
+- `buttonPresses` *(array)* — Number of presses per input action:  
+  - `actionName` *(string)* — e.g., `"trigger"`, `"grip"`.  
+  - `count` *(int)* — number of presses.  
+
+### Movement Metrics
+- `headMovement` *(float)* — Total movement distance of the HMD during gameplay.  
+- `leftControllerMovement` *(float)* — Total movement distance of the left controller during the session (meters).  
+- `rightControllerMovement` *(float)* — Total movement distance of the right controller during the session.  
+- `lookAroundYawRange` *(float)* — Total yaw rotation range (left and right) in degrees, capped at 360°.  
+- `lookAroundPitchRange` *(float)* — Total pitch rotation range (up and down) in degrees, capped at 180°.  
+
+### Example
+```json
+{
+  "playerId": "2f2b5eaf-497e-49bc-b2eb-0a51dfc2e3c9",
+  "timestamp": "2025-05-28T10:41:51.7812250Z",
+  "score": 5495,
+  "dartsFired": 243,
+  "balloonsPopped": 182,
+  "accuracy": 0.7489,
+  "buttonPresses": [
+    {"actionName": "trigger", "count": 285},
+    {"actionName": "grip", "count": 26}
+  ],
+  "headMovement": 11.42,
+  "leftControllerMovement": 1.85,
+  "rightControllerMovement": 59.64,
+  "lookAroundYawRange": 359.77,
+  "lookAroundPitchRange": 42.42
+}
