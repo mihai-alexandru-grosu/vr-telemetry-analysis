@@ -12,6 +12,14 @@ This repository contains all scripts, data, and reproducible analysis code for t
 
 ---
 
+## Gameplay
+
+- Video to gameplay is available here:
+
+<a href="https://uptro29158-my.sharepoint.com/:v:/g/personal/mihai_grosu_upt_ro/EfkeQbk-Ef9LryZRm89yeLUBK1Zn2NcKlxHfmmBiftCkSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=q3z5uY">
+  <img src="video_thumbnail.png" width="800"/>
+</a>
+
 ## Pipeline Steps
 
 1. **Data Filtering:**  
